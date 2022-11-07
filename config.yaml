@@ -48,6 +48,12 @@ menu:
     - name: Citation Notes
       url: /citations/
       weight: 6
+    - name: Big Questions
+      url: /bigqs/
+      weight: 7
+    - name: Definitions
+      url: /defs/
+      weight: 8
 
 permalinks:
     post = "/:year/:month/:day/:slug/"
