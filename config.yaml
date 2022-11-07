@@ -45,6 +45,9 @@ menu:
     - name: Segment Notes
       url: /segments/
       weight: 5
+    - name: Citation Notes
+      url: /citations/
+      weight: 6
 
 permalinks:
     post = "/:year/:month/:day/:slug/"
