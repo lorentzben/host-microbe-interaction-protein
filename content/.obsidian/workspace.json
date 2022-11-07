@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "d1070b8a1cc63057",
+    "type": "split",
+    "children": [
+      {
+        "id": "271b3d66c86d1546",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83cdcc1283a76a82",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8bf9943de3470ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "f964aee98ba35e91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58e2aae629b9cc4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6fae1d2928febe8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "793a44b86e028bbf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "09ac204f6a2048a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cefb513586f4302",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "962a3bc53607a40c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "beda4d9775fc4224",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ba372f7a479267b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eb1dc6339b69bf27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "58e2aae629b9cc4f",
+  "lastOpenFiles": [
+    "chenSystemBiologyPerspective2018.md",
+    "bigqs/2022-11-07-experimental-design-for-microbial-analysis/index.md"
+  ]
+}
