@@ -22,7 +22,7 @@ params:
     - python
     - stan
   progressively: no
-  sitename: Hugo Tanka Theme
+  sitename: Review of Host Microbe Interaction with a Focus on Protein Metabolism
   uselatex: yes
 markup:
   goldmark:
