@@ -16,5 +16,5 @@ This is the landing page! Maybe I will add a table of contents at one point
 
 [Big Questions](/bigqs/)
 
-[Definitions](/defs/)
+[Definitions](defs/definitions/)
 
