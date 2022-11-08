@@ -37,22 +37,27 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
     url = "https://github.com/lorentzben"
     weight = 3
 [[menu.primary]]
+    identifier = "papers"
     name = "Paper Notes"
     url = "/papers/"
     weight = 4
 [[menu.primary]]
+    identifier = "segments"
     name = "Segment Notes"
     url = "/segments/"
     weight = 5
 [[menu.primary]]
+    identifier = "citations"
     name = "Citation Notes"
     url = "/citations/"
     weight = 6
 [[menu.primary]]
+    identifier = "bigqs"
     name = "Big Questions"
     url = "/bigqs/"
     weight = 7
 [[menu.primary]]
+    identifier = "defs"
     name = "Definitions"
     url = "/defs/"
     weight = 8
