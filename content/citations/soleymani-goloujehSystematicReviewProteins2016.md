@@ -27,7 +27,7 @@ The digestive system is rich in different proteolytic enzymes, acid, and other s
 
 "However, small peptides may be crossing from these barriers and absorbed from different regions of the intestine" ([Link](zotero://open-pdf/library/items/8QI5LAQC?page=2) )
 
-"alimentary system." ([Link](zotero://open-pdf/library/items/8QI5LAQC?page=2) ) ^c7b2fd
+<a id="^c7b2fd"></a>"alimentary system." ([Link](zotero://open-pdf/library/items/8QI5LAQC?page=2) ) ^c7b2fd
 
 "Pepsin, an important peptic enzyme of the stomach, is most active at a pH of 2.0 to 3.0." ([Link](zotero://open-pdf/library/items/8QI5LAQC?page=3) ) ^8426dc
 
@@ -45,16 +45,16 @@ The digestive system is rich in different proteolytic enzymes, acid, and other s
 
 "trypsin, chymotrypsin, carboxypolypeptidase and proelastase. The trypsin and chymotrypsin split protein molecules into small polypeptides; carboxy polypeptidase then cleaves individual amino acids from the carboxyl ends of the polypeptides. Proelastase, in turn, is converted into elastase, which then digests elastin fibers that partially hold meats together." ([Link](zotero://open-pdf/library/items/8QI5LAQC?page=3) ) ^77f92a
 
-"enterocytes" ([Link](zotero://open-pdf/library/items/8QI5LAQC?page=3) ) ^6d18ed
+<a id="^6d18ed"></a> "enterocytes" ([Link](zotero://open-pdf/library/items/8QI5LAQC?page=3) ) ^6d18ed
 
 "[4]." ([Link](zotero://open-pdf/library/items/8QI5LAQC?page=3) )
 
-"epithelial cells, it can enter either the capillaries of the portal venous system or the lymphatic lacteal" ([Link](zotero://open-pdf/library/items/8QI5LAQC?page=3) ) ^9ddc7d
+<a id="^9ddc7d"></a> "epithelial cells, it can enter either the capillaries of the portal venous system or the lymphatic lacteal" ([Link](zotero://open-pdf/library/items/8QI5LAQC?page=3) ) ^9ddc7d
 
 "[6]." ([Link](zotero://open-pdf/library/items/8QI5LAQC?page=3) )
 
 "Peptide absorption from the digestive system is encountering with enzymatic and penetration barriers. Hydrolysis of peptides and proteins in the digestive system can occur in the lumen, in the brush border, intracellular fluid or in the cytosol of the enterocytes [12]. As the protein is ingested," ([Link](zotero://open-pdf/library/items/8QI5LAQC?page=3) )
 
-"aspartic proteinases called pepsins." ([Link](zotero://open-pdf/library/items/8QI5LAQC?page=4) ) ^ed9234
+<a id="^ed9234"></a> "aspartic proteinases called pepsins." ([Link](zotero://open-pdf/library/items/8QI5LAQC?page=4) ) ^ed9234
 
 "it reaches the stomach, where it is acted on by gastric juice in a very acidic environment. Gastric juice contains a family of aspartic proteinases called pepsins. Pepsins digested the protein into a mixture of polypeptides and move down to the duodenum. As the protein enters the duodenum, the pH rises to about 6.0 to 8.0. This pH change approximately from 2.0 to 8.0 can also cause precipitation of the protein through its iso-electric point and then may not easily re-dissolve [4]." ([Link](zotero://open-pdf/library/items/8QI5LAQC?page=4)) ^4c94ff

@@ -69,4 +69,4 @@ A vast, complex and dynamic consortium of microorganisms known as the gut microb
 
 "Over the past few years, organ-on-chip technology is emerging as a next-generation disease and drug model" ([Link](zotero://open-pdf/library/items/VH7FZWLS?page=6) )
 
-"bacterial culturomics," ([Link](zotero://open-pdf/library/items/VH7FZWLS?page=6)) ^7a1e17
+<a id="^7a1e17"></a> "bacterial culturomics," ([Link](zotero://open-pdf/library/items/VH7FZWLS?page=6)) ^7a1e17

@@ -24,7 +24,7 @@ The increasing global demand for poultry products, together with the growing con
 ### Notes
 <b>Extracted Annotations (8/15/2022, 4:30:49 PM)</b> 
 
-"abattoirs" ([Link](zotero://open-pdf/library/items/PFQJ4A67?page=2) ) ^99b3be
+<a id="^99b3be"></a> "abattoirs" ([Link](zotero://open-pdf/library/items/PFQJ4A67?page=2) ) ^99b3be
 
 "the evolution of ever-increasing performance holds a higher risk of failures due to metabolic disorders in the highly productive birds and due to the fact that endemic and epidemic infectious diseases may cause more damage." ([Link](zotero://open-pdf/library/items/PFQJ4A67?page=2) )
 

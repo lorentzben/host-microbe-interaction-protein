@@ -31,11 +31,11 @@ As bacteriophage therapy is being investigated more as an alternative to antibio
 
 "In addition to the bacteriophages themselves, isolation of lytic proteins from the bacteriophages is another possible avenue for alternative anti-microbial treatments. Phages encode two classes of enzymes: holins and endolysins." ([Link](zotero://open-pdf/library/items/G52VEZP6?page=1) )
 
-"helminths" ([Link](zotero://open-pdf/library/items/G52VEZP6?page=1) ) ^ad505b
+<a id="^ad505b"></a> "helminths" ([Link](zotero://open-pdf/library/items/G52VEZP6?page=1) ) ^ad505b
 
-"Endolysins" ([Link](zotero://open-pdf/library/items/G52VEZP6?page=1) ) ^6a33a9
+<a id="^6a33a9"></a> "Endolysins" ([Link](zotero://open-pdf/library/items/G52VEZP6?page=1) ) ^6a33a9
 
-"holins" ([Link](zotero://open-pdf/library/items/G52VEZP6?page=1) ) ^91a8a6
+<a id="^91a8a6"></a> "holins" ([Link](zotero://open-pdf/library/items/G52VEZP6?page=1) ) ^91a8a6
 
 "it remains a challenge to control the species or strains of bacteria in situ by targeted enrichment or depletion due to the location of the gut microbiota and lack of specificity with current therapies." ([Link](zotero://open-pdf/library/items/G52VEZP6?page=1) )
 

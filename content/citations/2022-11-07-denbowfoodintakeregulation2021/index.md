@@ -41,11 +41,11 @@ description: Description for the page
 
 "Denbow, 1994)." ([Link](zotero://open-pdf/library/items/X38K5RNI?page=1) )
 
-"chylomicrons" ([Link](zotero://open-pdf/library/items/X38K5RNI?page=1) ) ^5c0e80
+<a id="^5c0e80"></a> "chylomicrons" ([Link](zotero://open-pdf/library/items/X38K5RNI?page=1) ) ^5c0e80
 
-"subclavian vein," ([Link](zotero://open-pdf/library/items/X38K5RNI?page=1) ) ^53d12c
+<a id="^53d12c"></a> "subclavian vein," ([Link](zotero://open-pdf/library/items/X38K5RNI?page=1) ) ^53d12c
 
-"portomicrons" ([Link](zotero://open-pdf/library/items/X38K5RNI?page=1) ) ^e18a73
+<a id="^e18a73"></a> "portomicrons" ([Link](zotero://open-pdf/library/items/X38K5RNI?page=1) ) ^e18a73
 
 "After absorption from the gastrointestinal tract, nutrients generally travel directly to the liver. Whereas in mammals absorbed lipids are packaged into chylomicrons, enter the lymphatic system, and are transported to the subclavian vein, in birds lipids are packaged into portomicrons that enter the hepatic portal vein and travel directly to the liver." ([Link](zotero://open-pdf/library/items/X38K5RNI?page=1) )
 

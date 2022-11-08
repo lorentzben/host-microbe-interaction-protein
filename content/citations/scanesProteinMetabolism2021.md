@@ -36,9 +36,9 @@ description: "Description for the page"
 
 “Mechanical grinding by the gizzard l Chemical denaturation by the low pH l Enzymatic proteolysis by pepsin” (Scanes, 2021, p. 456) 
 
-“zymogen” (Scanes, 2021, p. 456)  ^d0c6ae
+<a id="^d0c6ae"></a> “zymogen” (Scanes, 2021, p. 456)  ^d0c6ae
 
-“The predominant site of protein digestion is the small intestine (Table 20.3). The digested protein (amino acids and dipeptides together with tripeptides) is absorbed in the small intestine (Table 20.3).” (Scanes, 2021, p. 457)  ^00c634
+<a id="^00c634"></a> “The predominant site of protein digestion is the small intestine (Table 20.3). The digested protein (amino acids and dipeptides together with tripeptides) is absorbed in the small intestine (Table 20.3).” (Scanes, 2021, p. 457)  ^00c634
 
 “Proteins undergo enzymatic digestion in the small intestine by the enzymes trypsin and chymotrypsin. These are produced by the pancreas as inactive zymogens (respectively, trypsinogen and chymotrypsinogen) and transported to the small intestine in the pancreatic secretions. In the small intestine, both trypsinogen and chymotrypsinogen are activated by proteolytic cleavage: l Trypsinogen → trypsin l Chymotrypsinogen → chymotrypsin” (Scanes, 2021, p. 457) 
 
@@ -48,39 +48,39 @@ description: "Description for the page"
 
 “This proteolytic cleavage results in the formation of an active protease, trypsin.” (Scanes, 2021, p. 457) 
 
-“Chymotrypsinogen is activated in the small intestine by proteolytic cleavage, for instance by trypsin.” (Scanes, 2021, p. 457)  ^035fd7
+<a id="^035fd7"></a> “Chymotrypsinogen is activated in the small intestine by proteolytic cleavage, for instance by trypsin.” (Scanes, 2021, p. 457)  ^035fd7
 
-“Amino acids are absorbed in the small intestine (chicken jejunum and ileum: Tasaki and Takahashi, 1966).” (Scanes, 2021, p. 457)  ^7057ed
+<a id="^7057ed"></a> “Amino acids are absorbed in the small intestine (chicken jejunum and ileum: Tasaki and Takahashi, 1966).” (Scanes, 2021, p. 457)  ^7057ed
 
 “Tasaki and Takahashi, 1966” (Scanes, 2021, p. 457) 
 
 “greater absorption of methionine in the ileum than in other regions of the small intestine” (Scanes, 2021, p. 457) 
 
-“Methionine is absorbed at the highest rate, followed by isoleucine, valine, and leucine, and glutamate is absorbed at the lowest rate, followed by aspartate, glycine, and arginine (Tasaki and Takahashi, 1966; Riley et al., 1986)” (Scanes, 2021, p. 457)  ^678fb9
+<a id="^678fb9"></a> “Methionine is absorbed at the highest rate, followed by isoleucine, valine, and leucine, and glutamate is absorbed at the lowest rate, followed by aspartate, glycine, and arginine (Tasaki and Takahashi, 1966; Riley et al., 1986)” (Scanes, 2021, p. 457)  ^678fb9
 
 “Tasaki and Takahashi, 1966; Riley et al., 1986” (Scanes, 2021, p. 457) 
 
-“There are series of amino acid transporters (10 in chickens) expressed in the enterocytes of the small intestine, with predominantly increases progressing down the small intestine from the duodenum, jejunum, and ileum (chickens: Gilbert et al., 2007).” (Scanes, 2021, p. 457)  ^a6039f
+<a id="^a6039f"></a> “There are series of amino acid transporters (10 in chickens) expressed in the enterocytes of the small intestine, with predominantly increases progressing down the small intestine from the duodenum, jejunum, and ileum (chickens: Gilbert et al., 2007).” (Scanes, 2021, p. 457)  ^a6039f
 
 “Gilbert et al., 2007” (Scanes, 2021, p. 457) 
 
-“Moreover, there are increases in the expression of many amino acid transporters during the period of growth and development post hatching (chickens: Gilbert et al., 2007).” (Scanes, 2021, p. 457)  ^a9190f
+<a id="^a9190f"></a> “Moreover, there are increases in the expression of many amino acid transporters during the period of growth and development post hatching (chickens: Gilbert et al., 2007).” (Scanes, 2021, p. 457)  ^a9190f
 
 “Not only are proteins in the ingesta digested with the resultant amino acids and small peptides absorbed, but also mucosal intestinal cells are sloughed off and then digested.” (Scanes, 2021, p. 457) 
 
 “Hurwitz et al. (1972).” (Scanes, 2021, p. 457) 
 
-“There is little information on the roles of the colon and ceca in protein and amino acid digestion and absorption.” (Scanes, 2021, p. 458) Big question  ^d1af9a
+<a id="^d1af9a"></a> “There is little information on the roles of the colon and ceca in protein and amino acid digestion and absorption.” (Scanes, 2021, p. 458) Big question  ^d1af9a
 
 “While most of the proteins in the ingesta are digested by the time the ingesta reaches the colon” (Scanes, 2021, p. 458) 
 
-“the fate of sloughed-off mucosa cells is not known.” (Scanes, 2021, p. 458)  ^4f029b
+<a id="^4f029b"></a> “the fate of sloughed-off mucosa cells is not known.” (Scanes, 2021, p. 458)  ^4f029b
 
 “There are populations of proteolytic bacteria in the colon of birds (chicken: King et al., 2009).” (Scanes, 2021, p. 458) 
 
 “King et al., 2009” (Scanes, 2021, p. 458) 
 
-“The impact of these proteolytic bacteria is not known.” (Scanes, 2021, p. 458) Another Q'  ^0c09d9
+<a id="^0c09d9"></a>  “The impact of these proteolytic bacteria is not known.” (Scanes, 2021, p. 458) Another Q'  ^0c09d9
 
 “Knight and Dibner, 1984; Dibner et al., 1988)” (Scanes, 2021, p. 458) 
 
@@ -88,7 +88,7 @@ description: "Description for the page"
 
 “Kino and Okumura (1987)” (Scanes, 2021, p. 458) 
 
-“It is also possible to experimentally determine whole-body protein net synthesis (accretion) or net degradation, and whole-body protein synthesis, using infusion of a radioactive form of a nonmetabolized amino acid such as phenyl alanine or tyrosine (see Table 20.4). As might be expected, net protein synthesis or accretion is negative in starved chicks or chicks on a diet deficient in specific amino acids (Table 20.5).” (Scanes, 2021, p. 458)  ^3288a2
+<a id="^3288a2"></a>  “It is also possible to experimentally determine whole-body protein net synthesis (accretion) or net degradation, and whole-body protein synthesis, using infusion of a radioactive form of a nonmetabolized amino acid such as phenyl alanine or tyrosine (see Table 20.4). As might be expected, net protein synthesis or accretion is negative in starved chicks or chicks on a diet deficient in specific amino acids (Table 20.5).” (Scanes, 2021, p. 458)  ^3288a2
 
 “Maruyama et al. (1978), MacDonald and Swick (1981), Urdaneta-Rincon and Leeson (2004)” (Scanes, 2021, p. 458) 
 
@@ -114,9 +114,9 @@ description: "Description for the page"
 
 “McFarland and Coon, 1980, 1984” (Scanes, 2021, p. 464) 
 
-“Glutamine is critically important for uric acid formation (see the Section 20.4.2.3). It is not surprising that glutaminase (catalyzing glutamine to glutamate) is either not present or at very low levels in the avian liver (chicken: Wu et al., 1998).” (Scanes, 2021, p. 464)  ^211adc
+<a id="^211adc"></a> “Glutamine is critically important for uric acid formation (see the Section 20.4.2.3). It is not surprising that glutaminase (catalyzing glutamine to glutamate) is either not present or at very low levels in the avian liver (chicken: Wu et al., 1998).” (Scanes, 2021, p. 464)  ^211adc
 
-“The predominant organ responsible for uric acid formation is the liver” (Scanes, 2021, p. 464)  ^e3b9bb
+<a id="^e3b9bb"></a> “The predominant organ responsible for uric acid formation is the liver” (Scanes, 2021, p. 464)  ^e3b9bb
 
 “Chicken hepatocytes have been demonstrated to synthesize uric acid in vitro” (Scanes, 2021, p. 464) 
 

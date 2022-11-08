@@ -31,7 +31,7 @@ Gastrointestinal microbiota is increasingly recognized as an important component
 
 "and possess many vital metabolic capabilities that the host cannot otherwise perform such as synthesis of essential vitamins and short-chain fatty acids, as well as breakdown of host-indigestible material such as complex plant polysaccharides and other products [4, 5]" ([Link](zotero://open-pdf/library/items/5VGRAT35?page=1) )
 
-"host goblet cells" ([Link](zotero://open-pdf/library/items/5VGRAT35?page=1) ) ^f4205b
+<a id="^f4205b"></a> "host goblet cells" ([Link](zotero://open-pdf/library/items/5VGRAT35?page=1) ) ^f4205b
 
 "For instance, the cecum is a unique morphological structure of the gastrointestinal tract, consisting of two blind pouches located at the junction of the small and large intestines [15] where fermentation of plant matter occurs, especially in herbivores and birds such as many galliformes that feed on plant material [16]. By contrast, the ileum is the last section of the small intestine, which typically maintains a more neutral pH and is responsible for absorption of the remaining products of digestion." ([Link](zotero://open-pdf/library/items/5VGRAT35?page=2) )
 
@@ -59,13 +59,13 @@ Gastrointestinal microbiota is increasingly recognized as an important component
 
 "ANOSIM generates a value of R measuring how separate groups are reviewed by Clark [33]. R = 1 means significantly different; R = 0 means no difference; R &gt; 0.75 suggests good separation; R &gt; 0.5 indicates differences with some overlapping; and R &lt; 0.25 means almost no differences." ([Link](zotero://open-pdf/library/items/5VGRAT35?page=3) )
 
-"Micrococcaceae (29.8 %), Planococcaceae (7.2 %), Pseudomonadaceae (7.2 %), Enterobacteriaceae (5.4 %), and Erysipelotrichaceae (4.2 %)." ([Link](zotero://open-pdf/library/items/5VGRAT35?page=4) ) ^807f96
+<a id="^807f96"></a> "Micrococcaceae (29.8 %), Planococcaceae (7.2 %), Pseudomonadaceae (7.2 %), Enterobacteriaceae (5.4 %), and Erysipelotrichaceae (4.2 %)." ([Link](zotero://open-pdf/library/items/5VGRAT35?page=4) ) ^807f96
 
 "The ileum, large intestine, and cloaca were dominated by Firmicutes, Actinobacteria, and Proteobacteria, while the cecum also possessed Bacteroidetes." ([Link](zotero://open-pdf/library/items/5VGRAT35?page=4) )
 
 "Heterogeneity for each individual and differences in community structure were observed at the family and genus levels (Table 1)" ([Link](zotero://open-pdf/library/items/5VGRAT35?page=4) )
 
-"Micrococcaceae was the most dominant bacterial family in half of the ileum (4/8), large intestine (4/8), and cloaca (5/8) samples. The microbial communities in the cecum were dominated by five to seven relatively high abundant (5.5-37.8 %) families including Enterobacteriaceae (13.9 % ± 13.4 %), Ruminococcaceae (12.9 % ± 7.6 %), Lachnospiraceae (10.6 % ± 4.5 %), Coriobacteriaceae (7.2 % ± 4.7 %), and Erysipelotrichaceae (3.9 % ± 6.2 %)." ([Link](zotero://open-pdf/library/items/5VGRAT35?page=4) ) ^9cf7ba
+<a id="^9cf7ba"></a> "Micrococcaceae was the most dominant bacterial family in half of the ileum (4/8), large intestine (4/8), and cloaca (5/8) samples. The microbial communities in the cecum were dominated by five to seven relatively high abundant (5.5-37.8 %) families including Enterobacteriaceae (13.9 % ± 13.4 %), Ruminococcaceae (12.9 % ± 7.6 %), Lachnospiraceae (10.6 % ± 4.5 %), Coriobacteriaceae (7.2 % ± 4.7 %), and Erysipelotrichaceae (3.9 % ± 6.2 %)." ([Link](zotero://open-pdf/library/items/5VGRAT35?page=4) ) ^9cf7ba
 
 "A large number of microbial taxa were present in all the four sampling locations, referred herein as theBcore microbiota.Â total of 50 microbial families and 70 genera occurred in all the four sampling locations (Fig. 2a, b). The core microbiota accounted for 99.3, 80.2, 80.2, and 84.7 % of total sequences in the ileum, cecum, large intestine, and cloaca samples, respectively (Fig. 2c)." ([Link](zotero://open-pdf/library/items/5VGRAT35?page=5) )
 
