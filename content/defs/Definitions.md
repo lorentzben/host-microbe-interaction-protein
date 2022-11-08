@@ -9,7 +9,7 @@ tags:
 description: "Description for the page"
 ---
 
-[[soleymani-goloujehSystematicReviewProteins2016#^57cee2 |Proteolytic Enzymes]] - Enzymes that break long chain protiens into smaller peptides. Two major groups exo/endo-peptidases; "aspartic endopeptidases, [cysteine](https://www.britannica.com/science/cysteine) endopeptidases, glutamic endopeptidases, metalloendopeptidases, [serine](https://www.britannica.com/science/serine) endopeptidases, and [threonine](https://www.britannica.com/science/threonine) endopeptidases. The term _oligopeptidase_ is reserved for those enzymes that act specifically on peptides." [source Brittanica](https://www.britannica.com/science/proteolytic-enzyme)
+[Proteolytic Enzymes](/citations/soleymani-goloujehSystematicReviewProteins2016#^57cee2) - Enzymes that break long chain protiens into smaller peptides. Two major groups exo/endo-peptidases; "aspartic endopeptidases, [cysteine](https://www.britannica.com/science/cysteine) endopeptidases, glutamic endopeptidases, metalloendopeptidases, [serine](https://www.britannica.com/science/serine) endopeptidases, and [threonine](https://www.britannica.com/science/threonine) endopeptidases. The term _oligopeptidase_ is reserved for those enzymes that act specifically on peptides." [source Brittanica](https://www.britannica.com/science/proteolytic-enzyme)
 
 [[soleymani-goloujehSystematicReviewProteins2016#^c7b2fd|Alimentary system]] - The human digestive system [source Wikipedia](https://en.wikipedia.org/wiki/Human_digestive_system)
 
