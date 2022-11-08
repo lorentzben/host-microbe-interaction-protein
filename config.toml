@@ -27,10 +27,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
     [markup.goldmark.renderer]
       unsafe = true
 
-[[menu.primary]]
-    name = "Home"
-    url = "/"
-    weight = 1
+
 [[menu.primary]]
     name = "About"
     url = "/about/"
