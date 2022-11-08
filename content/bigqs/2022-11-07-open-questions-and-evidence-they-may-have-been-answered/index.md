@@ -11,44 +11,42 @@ meta_img: images/image.png
 description: Description for the page
 ---
 
-![[bilsboroughReviewIssuesDietary2006#^e68058]]
+["However, the role of dietary protein and amino acids in modulating insulin and glucagon secretion are less clear, as is an understanding of what fraction of amino acid load contributes to structural/functional protein needs, oxidation, gluconeogenesis, or a combination of all three"](/citations/bilsboroughReviewIssuesDietary2006/)
 
 What is the link between dietary protein/AA and insulin and glucagon secretion? 2006
 
-![[dehauOmicsTechnologiesPoultry2022#^c90692]]
+["In one example, metabolomics was employed to understand the caecum microbiome-host interaction during Salmonella infection in young layers (Mon et al., 2020)"](/citations/dehauOmicsTechnologiesPoultry2022)
 
-Potential study methdology
+### Potential study methdology
 
-![[jozefiakCarbohydrateFermentationAvian2004#^e81e22]]
+[“However, in order to postulate on possible advantages that cecal NSP fermentation may have for the host animal, a closer examination of the fermentation end-products (i.e. SCFA) that are produced in the ceca is warranted.” (Józefiak et al., 2004, p. 9)](/citations/jozefiakCarbohydrateFermentationAvian2004)
 
-What is the end use of SCFA in the ceca 
+### What is the end use of SCFA in the ceca 
 
 We must understand where these SCFA go after they cross through the epithelial membranes
 
-![[jozefiakCarbohydrateFermentationAvian2004#^2a06bf]]
+[“After fermentation, protonated forms of SCFA are transported through the cecal epithelial membranes. Morton (1978) concluded that the amount of energy obtained from these SCFA is too low to meet all of the energy requirements of poultry.” (Józefiak et al., 2004, p. 10)](/citations/jozefiakCarbohydrateFermentationAvian2004)
 
-What is the implications of lowering the PH of the ceca 
+### What is the implications of lowering the PH of the ceca 
 
-![[jozefiakCarbohydrateFermentationAvian2004#^ccdce1]] ![[jozefiakCarbohydrateFermentationAvian2004#^b11e4d]]
+[“Van der Wielen et al. (2000) demonstrated that high fermentation activity in chicken ceca was correlated with a lower pH” (Józefiak et al., 2004, p. 11) ](/citations/jozefiakCarbohydrateFermentationAvian2004)
+[“this may inhibit some pathogenic bacteria by dissipating the proton motive force across the bacterial cell membrane (Russell, 1992)” (Józefiak et al., 2004, p. 11) ](/citations/jozefiakCarbohydrateFermentationAvian2004)
 
-What do the colon and ceca do in protein and AA digestion and absorption? 
+### What do the colon and ceca do in protein and AA digestion and absorption? 
 
-![[scanesProteinMetabolism2021#^d1af9a]]
+[“There is little information on the roles of the colon and ceca in protein and amino acid digestion and absorption.” (Scanes, 2021, p. 458) Big question ](/citations/scanesProteinMetabolism2021)
 
 What happens to these mucosa cells?
 
-![[scanesProteinMetabolism2021#^4f029b]]
+[“the fate of sloughed-off mucosa cells is not known.” (Scanes, 2021, p. 458)](/citations/scanesProteinMetabolism2021)
 
 What are these proteolytic bacteria doing? Are they effective?
 
-![[scanesProteinMetabolism2021#^0c09d9]]
+[“The impact of these proteolytic bacteria is not known.” (Scanes, 2021, p. 458) Another Q](/citations/scanesProteinMetabolism2021)
 
 
 Do birds have a true urea cycle?
 
-![[scanesProteinMetabolism2021#^3cb9ba]]
+[“The existence of a urea cycle in birds has been questioned (Stevens, 1996). However, birds have both uric acid and urates as well as urea in the plasma (see Chapter 11).”](/citations/scanesProteinMetabolism2021)
 
-![[Experimental Design for Microbial Analysis#^837893]]
-
-![[Ceca#^3bb20c]]
 
