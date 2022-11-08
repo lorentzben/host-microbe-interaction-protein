@@ -6,15 +6,15 @@ description: "Review of Host Microbe Interaction with a Focus on Protein Metabol
 
 This is the landing page! Maybe I will add a table of contents at one point
 
-[About](/about/)
+## [About](/about/)
 
-[Paper Notes](/papers/)
+## [Paper Notes](/papers/)
 
-[Segment Notes](/segments/)
+## [Segment Notes](/segments/)
 
-[Citation Notes](/citations/)
+## [Citation Notes](/citations/)
 
-[Big Questions](/bigqs/)
+## [Big Questions](/bigqs/)
 
-[Definitions](defs/definitions/)
+## [Definitions](defs/definitions/)
 

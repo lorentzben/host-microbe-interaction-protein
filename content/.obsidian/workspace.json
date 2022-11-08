@@ -11,8 +11,12 @@
             "id": "83cdcc1283a76a82",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "segments/Ceca.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "segments/Ceca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "segments/Ceca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "segments/Ceca.md"
+              }
             }
           }
         ]
@@ -128,8 +136,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "58e2aae629b9cc4f",
+  "active": "83cdcc1283a76a82",
   "lastOpenFiles": [
+    "dehauOmicsTechnologiesPoultry2022.md",
+    "segments/Ceca.md",
     "chenSystemBiologyPerspective2018.md",
     "bigqs/2022-11-07-experimental-design-for-microbial-analysis/index.md"
   ]
