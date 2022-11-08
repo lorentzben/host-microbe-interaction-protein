@@ -27,39 +27,39 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
     [markup.goldmark.renderer]
       unsafe = true
 
-[[menu.primary]]
+[[menu.main]]
     name = "Home"
     url = "/index.html"
     weight = 1
-[[menu.primary]]
+[[menu.main]]
     name = "About"
     url = "/about/"
     weight = 2
-[[menu.primary]]
+[[menu.main]]
     name = "GitHub"
     url = "https://github.com/lorentzben"
     weight = 3
-[[menu.primary]]
+[[menu.main]]
     identifier = "papers"
     name = "Paper Notes"
     url = "/papers/"
     weight = 4
-[[menu.primary]]
+[[menu.main]]
     identifier = "segments"
     name = "Segment Notes"
     url = "/segments/"
     weight = 5
-[[menu.primary]]
+[[menu.main]]
     identifier = "citations"
     name = "Citation Notes"
     url = "/citations/"
     weight = 6
-[[menu.primary]]
+[[menu.main]]
     identifier = "bigqs"
     name = "Big Questions"
     url = "/bigqs/"
     weight = 7
-[[menu.primary]]
+[[menu.main]]
     identifier = "defs"
     name = "Definitions"
     url = "/defs/"
