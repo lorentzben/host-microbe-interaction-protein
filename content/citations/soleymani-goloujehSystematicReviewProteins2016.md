@@ -22,7 +22,8 @@ The digestive system is rich in different proteolytic enzymes, acid, and other s
 ### Notes
 <b>Extracted Annotations (8/5/2022, 3:34:41 PM)</b> 
 
-"proteolytic enzymes" ([Link](zotero://open-pdf/library/items/8QI5LAQC?page=2) ) ^57cee2
+
+<a id="^57cee2"></a> "proteolytic enzymes" ([Link](zotero://open-pdf/library/items/8QI5LAQC?page=2) ) 
 
 "However, small peptides may be crossing from these barriers and absorbed from different regions of the intestine" ([Link](zotero://open-pdf/library/items/8QI5LAQC?page=2) )
 
