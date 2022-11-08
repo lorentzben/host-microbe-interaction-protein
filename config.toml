@@ -27,7 +27,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
     [markup.goldmark.renderer]
       unsafe = true
 
-
 [[menu.primary]]
     name = "About"
     url = "/about/"
@@ -46,7 +45,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
     name = "Segment Notes"
     url = "/segments/"
     weight = 5
-[[menu.primary]
+[[menu.primary]]
     identifier = "citations"
     name = "Citation Notes"
     url = "/citations/"
