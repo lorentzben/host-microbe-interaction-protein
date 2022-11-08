@@ -9,7 +9,7 @@ tags:
 description: "Description for the page"
 ---
 
-["Caecal bacterial taxa such as Faecalibacterium prausnitzii, Ruminococcus genus, Lachnospiraceae family and Bacteroides genus, are associated with good bird performance or low feed conversion ratio (FCR) (Stanley et al., 2012, 2013, 2014, 2016; Singh et al., 2012; Johnson et al., 2018)."](/citations/dehauomicstechnologiespoultry2022/)
+["Caecal bacterial taxa such as Faecalibacterium prausnitzii, Ruminococcus genus, Lachnospiraceae family and Bacteroides genus, are associated with good bird performance or low feed conversion ratio (FCR) (Stanley et al., 2012, 2013, 2014, 2016; Singh et al., 2012; Johnson et al., 2018)."](/citations/dehauomicstechnologiespoultry2022/#^f77bd9)
 Are these the only taxa or can we identify even more?
 
 ["In one example, metabolomics was employed to understand the caecum microbiome-host interaction during Salmonella infection in young layers (Mon et al., 2020)" ](/citations/dehauOmicsTechnologiesPoultry2022/)
