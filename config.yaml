@@ -31,7 +31,7 @@ markup:
 menu:
   primary:
     - name: Home
-      url: /
+      url: /home/home.md
       weight: 1
     - name: About
       url: /about/

@@ -1,0 +1,65 @@
+baseurl = "https://lorentz-host-microbe-interaction.netlify.app/"
+title = "Review of Host Microbe Interaction with a Focus on Protein Metabolism"
+author = "Ben Lorentz"
+canonifyurls = true
+languagecode = "en"
+theme = "hugo-tanka"
+
+enableEmoji = true
+hasCJKLanguage = false
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+
+[params]
+  sitename = "Review of Host Microbe Interaction with a Focus on Protein Metabolism"
+  faviconfile = "images/favicon.png"
+  highlightjs = true
+  highlightjslanguages = ["r", "python", "stan"]
+  uselatex = true
+  progressively = false
+# commentsrepo = "user/repo"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.primary]]
+    name = "Home"
+    url = "/home/"
+    weight = 1
+[[menu.primary]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+[[menu.primary]]
+    name = "GitHub"
+    url = "https://github.com/lorentzben"
+    weight = 3
+[[menu.primary]]
+    name = "Paper Notes"
+    url = "/papers/"
+    weight = 4
+[[menu.primary]]
+    name = "Segment Notes"
+    url = "/segments/"
+    weight = 5
+[[menu.primary]]
+    name = "Citation Notes"
+    url = "/citations/"
+    weight = 6
+[[menu.primary]]
+    name = "Big Questions"
+    url = "/bigqs/"
+    weight = 7
+[[menu.primary]]
+    name = "Definitions"
+    url = "/defs/"
+    weight = 8
+    
+permalinks:
+    post = "/:year/:month/:day/:slug/"
+    papers = "/:year/:month/:day/:slug/"
