@@ -17,7 +17,9 @@ description: "Description for the page"
 
 ### Some fermentation occurs in the ceca this includes the Non starch polysaccharides 
 
-[“NSPs can be hydrolyzed by enzymes produced by the cecal microflora or by supplementation of poultry diets with specific feed enzymes (Choct et al., 1999; Jamroz et al., 2002).” (Józefiak et al., 2004, p. 2) ](/citations/jozefiakCarbohydrateFermentationAvian2004/)
+[“NSPs can be hydrolyzed by enzymes produced by the cecal microflora or by supplementation of poultry diets with specific feed enzymes (Choct et al., 1999; Jamroz et al., 2002).” (Józefiak et al., 2004, p. 2) ](/citations/jozefiakCarbohydrateFermentationAvian2004/) 
+
+[“Fig. 3. Abundance of glycoside hydrolase (GH)-families in metagenomes of bovine rumen and chicken caecum. The percentage of each GH-group relative to the total number of GH-families identified in each metagenomic dataset is shown grouped according to major activity"](/citations/tiloccaEffectsDietsDifferent2019#^4f7d85)
 
 
 <a id="^79caee"></a>
@@ -40,6 +42,10 @@ Megamonas, Helicobacter, and Campylobacter are curious taxa that may be acting a
 [“Van der Wielen et al. (2000) demonstrated that high fermentation activity in chicken ceca was correlated with a lower pH” (Józefiak et al., 2004, p. 11)](/citations/jozefiakCarbohydrateFermentationAvian2004/)
 
 ["Here, we focus on the ceca as organs of particular interest as they harbor the highest microbial cell densities (up to 1011 cells g1), have the longest residence time (12-20 h) of digesta in the gastrointestinal tract, and are important sites for recycling of urea, water regulation, and carbohydrate fermentations contributing to intestinal health and nutrition (Ensminger, 1971; Clench & Mathias, 1995; Sergeant et al., 2014; Waite & Taylor, 2014)"](/citations/oakleyChickenGastrointestinalMicrobiome2014#^028138)
+
+[“Chickens have two caeca which are important for recycling urea, the absorption of water, and digestion of cellulose, starch and polysaccharides. These two fermentation chambers have the highest bacterial density and are colonized by obligate anaerobes like Clostridium, Bacteroidetes, and Bifidobacterium (Fig.2)](/citations/tiloccaEffectsDietsDifferent2019#^6f9196)
+
+[“Qu et al. proved that mobile DNA elements are the cause of functional microbiome evolution and that horizontal gene transfers and the metavirulomes of cecal microbiomes were related to the host environment 49. A metagenomic analysis of the chicken caecum using the Illumina MiSeq 2000 system revealed a relatively high proportion of sequences encoding glycosyl hydrolases that were identified by sequence comparison with carbohydrate active enzymes (CAZY) database (Fig. 3)"](/content/tiloccaEffectsDietsDifferent2019#^982b0e)
 
 ### Who is present in the ceca?
 

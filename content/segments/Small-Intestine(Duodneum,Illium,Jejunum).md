@@ -61,6 +61,8 @@ In mammals specifically, but theres a good chance this holds in poultry.
 
 [“Ileum is the third segment of the small intestine, it ends at ileo-cecal junction and plays a pivotal role in the absorption of water and minerals. Only a minor activity has been observed in digestion and absorption of fat, carbohydrates and proteins 35"](/citations/tiloccaEffectsDietsDifferent2019#^05b7af)
 
+[“Lu et al. demonstrated that during all different stages of microbial community development in the ileum Lactobacilli were dominant [26]. This gut section is also known to be colonized by novel butyrate producing bacteria that may play an important role regarding the availability of nutrients, absorption rate and chicken performance"](/citations/tiloccaEffectsDietsDifferent2019#^9139ef)
+
 #### Taxa 
 
 [“Despite being dominated by Lactobacillus spp., the ileum is considered as a source of novel bacteria, including butyrate-producing species and other novel bacteria involved in nutrient availability and absorption; Clostridium spp., Streptococcus spp. and Enterococcus” (Tilocca, 2019, p. 16)](/citations/tiloccaEffectsDietsDifferent2019#^d0a591)

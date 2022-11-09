@@ -66,6 +66,8 @@ Background The emergence of antimicrobial resistance is a major threat to global
 
 "As the GI tract transitions to a more anaerobic environment, we observed the replacement of Lactobacillaceae with Clostridiales as the dominant family in the ceca and colon. Indeed, in general, the taxonomic profiles of the ceca and colon were distinct from other sites, featuring obligate anaerobes from the Clostridia order (e.g., Ruminococcaceae and Lachnospiraceae), as well as many OTUs that could only be classified at the level of phylum (Firmicutes), class (Clostridia), or order (Clostridiales), resulting in the significant increase in diversity observed in these two sites (Supplemental Table 3)." ([Link](zotero://open-pdf/library/items/PFHF8N5H?page=3) )
 
+#TODO review these cited papers
+
 "Overall, these results are consistent with previous studies that suggest that GI site, diet, and age have a major impact on microbiome structure [16, 19, 25-27, 39, 40]." ([Link](zotero://open-pdf/library/items/PFHF8N5H?page=3) )
 
 "16, 19, 25-27, 39, 40]." ([Link](zotero://open-pdf/library/items/PFHF8N5H?page=3) )

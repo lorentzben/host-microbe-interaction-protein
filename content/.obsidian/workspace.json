@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "segments/Small-Intestine(Duodneum,Illium,Jejunum).md",
+                "file": "segments/Ceca.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3f95b5c837b9756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "segments/Ceca.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b064a0b9493dd38d",
@@ -31,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "citations/tiloccaEffectsDietsDifferent2019.md",
+                "file": "citations/zouSystematicProfilingChicken2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sergeant",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "segments/Small-Intestine(Duodneum,Illium,Jejunum).md",
+                "file": "citations/zouSystematicProfilingChicken2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "segments/Small-Intestine(Duodneum,Illium,Jejunum).md",
+                "file": "citations/zouSystematicProfilingChicken2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "segments/Small-Intestine(Duodneum,Illium,Jejunum).md"
+                "file": "citations/zouSystematicProfilingChicken2022.md"
               }
             }
           }
@@ -154,17 +167,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "83cdcc1283a76a82",
+  "active": "5b49eee0768a0158",
   "lastOpenFiles": [
     "citations/tiloccaEffectsDietsDifferent2019.md",
+    "segments/Ceca.md",
+    "defs/Definitions.md",
+    "citations/hooperHowHostmicrobialInteractions2002.md",
+    "citations/2022-11-07-bilsboroughreviewissuesdietary2006/index.md",
     "segments/Small-Intestine(Duodneum,Illium,Jejunum).md",
     "bigqs/roles-of-scfas.md",
-    "segments/Ceca.md",
     "segments/Untitled.md",
     "citations/qinHumanGutMicrobial2010.md",
-    "citations/zouSystematicProfilingChicken2022.md",
-    "citations/oakleyChickenGastrointestinalMicrobiome2014.md",
-    "bigqs/roles-of-scfas.md.md",
-    "citations/jozefiakCarbohydrateFermentationAvian2004.md"
+    "citations/zouSystematicProfilingChicken2022.md"
   ]
 }
