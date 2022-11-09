@@ -18,6 +18,8 @@ description: "Description for the page"
 - **Tags**:: #paper
 - **Cite Key**:: [@qinHumanGutMicrobial2010] 
 
+read but not much to be used for chicken
+
 ### Abstract
 To understand the impact of gut microbes on human health and well-being it is crucial to assess their genetic potential. Here we describe the Illumina-based metagenomic sequencing, assembly and characterization of 3.3 million nonredundant microbial genes, derived from 576.7 Gb sequence, from faecal samples of 124 European individuals. The gene set, ~150 times larger than the human gene complement, contains an overwhelming majority of the prevalent microbial genes of the cohort and likely includes a large proportion of the prevalent human intestinal microbial genes. The genes are largely shared among individuals of the cohort. Over 99% of the genes are bacterial, suggesting that the entire cohort harbours between 1000 and 1150 prevalent bacterial species and each individual at least 160 such species, which are also largely shared. We define and describe the minimal gut metagenome and the minimal gut bacterial genome in terms of functions encoded by the gene set.
 
@@ -49,3 +51,4 @@ To understand the impact of gut microbes on human health and well-being it is cr
 "Wanting to generate an extensive catalogue of microbial genes from the human gut, we first assembled the short Illumina reads into longer contigs, which could then be analysed and annotated by standard methods. Using SOAPdenovo19, a de Bruijn graph based tool specially designed for assembling very short reads, we performed de novo assembly for all the Illumina GA sequence data" ([Link](zotero://open-pdf/library/items/ZGKDZCRD?page=3) )
 
 <i>Methodology ([Link](zotero://open-pdf/library/items/ZGKDZCRD?page=3)</i>)
+

@@ -17,11 +17,14 @@ description: "Description for the page"
 
 ["short chain fatty acids (SCFA), such as butyrate, which is beneficial for gut health as it provides energy to epithelial cells, stimulates cell proliferation, reinforces the gut barrier and may inhibit certain pathogens (Guilloteau et al., 2010)."](/citations/2022-11-07-dehauomicstechnologiespoultry2022/index#^fd1a28)
 
-This sergeant paper comes up twice
+This sergeant paper comes up three times
 
 ["Pathways for non-starch polysaccharides (NSPs) utilization, SCFA production and hydrogen consumption were identified (Sergeant et al., 2014"](/citations/2022-11-07-dehauomicstechnologiespoultry2022/index#^029aa3)
 
 ["Of particular interest is a recent study in which over 200 different nonstarch polysaccharide (NSP) degrading enzymes were found, including a potentially novel pathway for propionate production (Sergeant et al., 2014)." "Additionally, the discovery of uptake hydrogenases from some of the most abundant genera (Megamonas, Helicobacter, and Campylobacter) supports interesting speculations regarding a possible mechanism by which SCFA production is promoted by these taxa acting as hydrogen sinks (Sergeant et al., 2014)."](citations/oakleyChickenGastrointestinalMicrobiome2014#^e08c18)
+
+["Sergeant and colleagues recently investigated the cecal microbiota using a deep microbial community profiling technique; whilst, information on the potential functions were obtained through metagenomic investigation" ](/citations/tiloccaEffectsDietsDifferent2019#^505d62)
+
 
 [“These SCFA include butyrate, acetate, lactate, propionate, valerate, and isovalerate (Jamroz et al., 1998)” (Józefiak et al., 2004, p. 9) ](/citations/jozefiakCarbohydrateFermentationAvian2004#^f3d52a)
 

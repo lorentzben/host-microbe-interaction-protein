@@ -117,33 +117,33 @@ In the research works of the present thesis, 16S rRNA gene sequencing and metapr
 
 “Gizzard is the mechanical stomach providing the mashing and mixing of the feed particles.” (Tilocca, 2019, p. 16) 
 
-“The small intestine is further divided into three main sections. Duodenum represents the first section; here, the acidic secretion from the upper gastrointestinal tract are mixed with the bile and pancreatic juices, leading to a sudden alkylation of the environment that marks the beginning of the digestive processes.” (Tilocca, 2019, p. 16) 
+<a id="^30862d"></a>“The small intestine is further divided into three main sections. Duodenum represents the first section; here, the acidic secretion from the upper gastrointestinal tract are mixed with the bile and pancreatic juices, leading to a sudden alkylation of the environment that marks the beginning of the digestive processes.” (Tilocca, 2019, p. 16)  ^30862d
 
 “It has been estimated that 95% of the fat digestion occurs in the duodenum [30, 31].” (Tilocca, 2019, p. 16) 
 
-“Jejunal segment extends from the duodenal loop until the Meckel's diverticulum. Main feature of this section is represented by its large size, enabling the digestion and adsorption of the major nutrients, despite a reduced retention time of 40-60 minutes [32-34].” (Tilocca, 2019, p. 16) 
+<a id="^092ed5"></a>“Jejunal segment extends from the duodenal loop until the Meckel's diverticulum. Main feature of this section is represented by its large size, enabling the digestion and adsorption of the major nutrients, despite a reduced retention time of 40-60 minutes [32-34].” (Tilocca, 2019, p. 16)  ^092ed5
 
-“Ileum is the third segment of the small intestine, it ends at ileo-cecal junction and plays a pivotal role in the absorption of water and minerals. Only a minor activity has been observed in digestion and absorption of fat, carbohydrates and proteins [35].” (Tilocca, 2019, p. 16) 
+<a id="^05b7af"></a>“Ileum is the third segment of the small intestine, it ends at ileo-cecal junction and plays a pivotal role in the absorption of water and minerals. Only a minor activity has been observed in digestion and absorption of fat, carbohydrates and proteins [35].” (Tilocca, 2019, p. 16)  ^05b7af
 
-“Ceca in chickens are two blind sacs that mark the joint point between the small and the large intestine. In these segments, materials of ileal and renal origin are subjected to long retention times, enabling for most of the electrolytes and water absorption [36]. Moreover, the ceca are an important site for the fermentation of any residual raw material with the consequent production of SCFA and B-group vitamins. Ceca empty their content two to three times per day, producing cecal droppings, whose color and texture are used to evaluate the normal functionality of the chickenś digestive tract [36, 37].” (Tilocca, 2019, p. 16) 
+<a id="^18c971"></a>“Ceca in chickens are two blind sacs that mark the joint point between the small and the large intestine. In these segments, materials of ileal and renal origin are subjected to long retention times, enabling for most of the electrolytes and water absorption [36]. Moreover, the ceca are an important site for the fermentation of any residual raw material with the consequent production of SCFA and B-group vitamins. Ceca empty their content two to three times per day, producing cecal droppings, whose color and texture are used to evaluate the normal functionality of the chickenś digestive tract [36, 37].” (Tilocca, 2019, p. 16)  ^18c971
 
 “The large intestine represents the last small segment of the digestive tract where occur the reabsorption of the last water content in the fecal material and the digestive wastes are mixed along with the wastes from the urinary system.” (Tilocca, 2019, p. 16) 
 
 “Crop and gizzard share a very similar microbiota, dominated by Lactobacillus spp. and Clostridiaceae. Slight differences are imputable to the reduced fermentation activity of the gizzard reflected as a reduced amount of Enterococcus spp. and Bifidobacteria spp. in its microbiota composition [39].” (Tilocca, 2019, p. 16) 
 
-“Duodenal microbiota is almost exclusively composed of Lactobacillus spp. (up to 99% of the total diversity), but Streptococcus spp. and Enterobacteriaceae may also be abundantly identified [40].” (Tilocca, 2019, p. 16) 
+<a id="^605b56"></a>“Duodenal microbiota is almost exclusively composed of Lactobacillus spp. (up to 99% of the total diversity), but Streptococcus spp. and Enterobacteriaceae may also be abundantly identified [40].” (Tilocca, 2019, p. 16)  ^605b56
 
-“Despite being dominated by Lactobacillus spp., the ileum is considered as a source of novel bacteria, including butyrate-producing species and other novel bacteria involved in nutrient availability and absorption; Clostridium spp., Streptococcus spp. and Enterococcus” (Tilocca, 2019, p. 16) 
+<a id="^d0a591"></a>“Despite being dominated by Lactobacillus spp., the ileum is considered as a source of novel bacteria, including butyrate-producing species and other novel bacteria involved in nutrient availability and absorption; Clostridium spp., Streptococcus spp. and Enterococcus” (Tilocca, 2019, p. 16)  ^d0a591
 
 “spp. are also found to dominate the ileal environment [39, 41, 42]” (Tilocca, 2019, p. 17) 
 
-“Cecal microbiota is the most investigated GIT segment since it is an important site of fermentation, enabling the digestion of food rich in cellulose, starch, and resistant polysaccharides. Moreover, the cecum is also the principal site of water reabsorption and nutrient transport and absorption. Therefore, elucidation on the microbial profile harbored in this section provide insights on the mechanisms of food utilization and open new frontiers for the animal husbandry optimization. Ceca is the most colonized section and is featured by a very high bacterial diversity. Here, the most abundant bacterial specimens are Clostridiaceae, Bacteroidaceae, Lactobacillus spp., Proteobacteria, and unknown Firmicutes [39].” (Tilocca, 2019, p. 17) 
+<a id="^52c1e4"></a>“Cecal microbiota is the most investigated GIT segment since it is an important site of fermentation, enabling the digestion of food rich in cellulose, starch, and resistant polysaccharides. Moreover, the cecum is also the principal site of water reabsorption and nutrient transport and absorption. Therefore, elucidation on the microbial profile harbored in this section provide insights on the mechanisms of food utilization and open new frontiers for the animal husbandry optimization. Ceca is the most colonized section and is featured by a very high bacterial diversity. Here, the most abundant bacterial specimens are Clostridiaceae, Bacteroidaceae, Lactobacillus spp., Proteobacteria, and unknown Firmicutes [39].” (Tilocca, 2019, p. 17)  ^52c1e4
 
 “Fig. 2. Distribution of the bacterial families dominating the chicken GIT sections. Section-specific composition of the microbiota has been drawn according to the data published by Videnska et al. [43].” (Tilocca, 2019, p. 17) 
 
 “Videnska et al. [43].” (Tilocca, 2019, p. 17) 
 
-“A handful of studies focused on the characterization of the chicken gut microbiota both in terms of composition and functions. Sergeant and colleagues recently investigated the cecal microbiota using a deep microbial community profiling technique; whilst, information on the potential functions were obtained through metagenomic investigation [44]. Similarly, Tang et al. (2014) investigated the chicken fecal microbiota via 16S rRNA gene sequencing and metaproteomics, elucidating the bacterial” (Tilocca, 2019, p. 17) 
+<a id="^505d62"></a>“A handful of studies focused on the characterization of the chicken gut microbiota both in terms of composition and functions. Sergeant and colleagues recently investigated the cecal microbiota using a deep microbial community profiling technique; whilst, information on the potential functions were obtained through metagenomic investigation [44]. Similarly, Tang et al. (2014) investigated the chicken fecal microbiota via 16S rRNA gene sequencing and metaproteomics, elucidating the bacterial” (Tilocca, 2019, p. 17)  ^505d62
 
 “phylogenetic distribution and the ongoing metabolic processes in the gut of a healthy chicken [45].” (Tilocca, 2019, p. 18) 
 
@@ -287,15 +287,13 @@ In the research works of the present thesis, 16S rRNA gene sequencing and metapr
 
 “A typical LC-MS/MS experiments generate hundreds of thousands of fragmentation spectra. Here, the MS1 provide information on the mass-to-charge (m/z) of the intact peptide along with its amino-acidic composition whereas the MS2, providing information of the fragmentation pattern of each parent ion, determine the correct amino-acidic order.” (Tilocca, 2019, p. 29) 
 
-“The peptide sequences, in” (Tilocca, 2019, p. 29) 
-
-“turn, are assigned to specific protein IDs through a protein database-dependent search, where the measured peptides are compared with the peptides profile deriving from the in silico digestion of user-defined protein database, designated as the reference for the investigated organism or consortia.” (Tilocca, 2019, p. 30) 
+“The peptide sequences, in turn, are assigned to specific protein IDs through a protein database-dependent search, where the measured peptides are compared with the peptides profile deriving from the in silico digestion of user-defined protein database, designated as the reference for the investigated organism or consortia.” (Tilocca, 2019, p. 30) 
 
 “Clearly, this enormous amount of data cannot be manually elaborated and a wide variety of bioinformatics software and tools is nowadays available to perform the computational operations, required to translate the myriad of spectra into a meaningful output that is both concise and informative [115].” (Tilocca, 2019, p. 30) 
 
 “To this purpose, commonly used search engines are OMSSA (Open Mass Spectrometry Search Algorithm), X!Tandem, MASCOT, Andromeda and SEQUEST.” (Tilocca, 2019, p. 30) 
 
-“Major tasks of these tools include quality filtering of the raw MS spectra, peptidespectrum matching and scoring, protein database searching, data mining, and graphical representation of the obtained results [129].” (Tilocca, 2019, p. 30) 
+“Major tasks of these tools include quality filtering of the raw MS spectra, peptide spectrum matching and scoring, protein database searching, data mining, and graphical representation of the obtained results [129].” (Tilocca, 2019, p. 30) 
 
 “Similarly to metagenomics tools, proteomics/metaproteomics-committed tools are based on diverse algorithms and statistics, resulting in varying performance that, for each tool, depends on several factors such as sample complexity, separation efficiency and quality of the reference database [127]” (Tilocca, 2019, p. 30) 
 
@@ -371,6 +369,7 @@ In the research works of the present thesis, 16S rRNA gene sequencing and metapr
 
 “Subsequent to pyrosequencing, quality filtering and denoising processes have to be applied. The reads should be checked for chimeras and clustered to operational taxonomic units (OTU) in order to assign the respective taxonomies to the sequences. There is a diverse range of bioinformatic tools available in free software platforms such as Mothur, QIIME, RDP pipeline, LIBSHUFF, UniFrac and MEGAN that support data analysis and convert data to formats that can later be used in statistical packages like R, Metastats or Primer-E. A detailed overview of the methods can be found in several review papers [5, 8].” (Tilocca, 2019, p. 52) 
 
+#TODO examine these reviews
 “overview of the methods can be found in several review papers [5, 8” (Tilocca, 2019, p. 52) 
 
 “These pipelines should be used with special care as it is not only important to make sense of all the raw data, but also to ensure that the final picture is a direct reflection of the original raw data collected and thus of the original community structure of the sample. The output data reveal ecological indices, relative abundance values of the identified taxa and enable a pre-selection for a targeted quantitative PCR (real-time PCR) approaches if necessary.” (Tilocca, 2019, p. 52) 
@@ -391,6 +390,7 @@ In the research works of the present thesis, 16S rRNA gene sequencing and metapr
 
 “The protein identification is the second big challenge as it is highly depending on the available sequence database which can either be used from public resources or sample-specific sequences. An overview of available bioinformatic tools and workflows are given in [18, 19]” (Tilocca, 2019, p. 53) 
 
+#TODO Read this paper
 “An overview of available bioinformatic tools and workflows are given in [18, 19” (Tilocca, 2019, p. 53) 
 
 “The coverage of metaproteomic studies of complex microbial samples, such as feces or rumen contents, is still low. Since there is a high species diversity and cell density in these types of samples, only abundant proteins are identified while rare species, that may have important metabolic functions, are missed. Targeted proteomic approaches, like selective reaction monitoring (SRM) can be used to specifically detect and quantify proteins of interest [20].” (Tilocca, 2019, p. 53) 
@@ -421,13 +421,13 @@ In the research works of the present thesis, 16S rRNA gene sequencing and metapr
 
 “The small intestine is relatively long and has a constant diameter. It consists of three parts: the duodenum, jejunum and ileum where the nutrient absorption and food digestion occurs” (Tilocca, 2019, p. 55) 
 
-“Due to the low pH, pancreatic and bile secretions, the bacterial density in the duodenum is comparably low” (Tilocca, 2019, p. 55) 
+<a id="^516e29"></a>“Due to the low pH, pancreatic and bile secretions, the bacterial density in the duodenum is comparably low” (Tilocca, 2019, p. 55)  ^516e29
 
-“Besides Lactobacillus as the main colonizer of the jejunum (reaching coverage of up to 99%), Streptococcus was identified as well.” (Tilocca, 2019, p. 55) 
+<a id="^26e0b1"></a>“Besides Lactobacillus as the main colonizer of the jejunum (reaching coverage of up to 99%), Streptococcus was identified as well.” (Tilocca, 2019, p. 55)  ^26e0b1
 
 “Amit-Romach et al. has shown that the relative proportion of Lactobacillus spp. in duodenum and jejunum increases within age [48].” (Tilocca, 2019, p. 55) 
 
-“The chicken's ileum harbors Lactobacillus in higher abundance (&gt; 68%) and in lower abundances Streptococcus, Enterobacteriaceae and Clostridiaceae [28, 43].” (Tilocca, 2019, p. 55) 
+<a id="^0dd086"></a>“The chicken's ileum harbors Lactobacillus in higher abundance (&gt; 68%) and in lower abundances Streptococcus, Enterobacteriaceae and Clostridiaceae [28, 43].” (Tilocca, 2019, p. 55)  ^0dd086
 
 “Lu et al. demonstrated that during all different stages of microbial community development in the ileum Lactobacilli were dominant [26]. This gut section is also known to be colonized by novel butyrate producing bacteria that may play an important role regarding the availability of nutrients, absorption rate and chicken performance [47].” (Tilocca, 2019, p. 55) 
 
@@ -731,7 +731,7 @@ In the research works of the present thesis, 16S rRNA gene sequencing and metapr
 
 "Duodenal microbiota is almost exclusively composed of Lactobacillus spp. (up to 99% of the total diversity), but Streptococcus spp. and Enterobacteriaceae may also be abundantly identified [40]." ([Link](zotero://open-pdf/library/items/G2SD5DFS?page=16) )
 
-"Despite being dominated by Lactobacillus spp., the ileum is considered as a source of novel bacteria, including butyrate-producing species and other novel bacteria involved in nutrient availability and absorption; Clostridium spp., Streptococcus spp. and Enterococcus" ([Link](zotero://open-pdf/library/items/G2SD5DFS?page=16) )
+"Despite being dominated by Lactobacillus spp., the ileum is considered as a source of novel bacteria, including butyrate-producing species and other novel bacteria involved in nutrient availability and absorption; Clostridium spp., Streptococcus spp. and Enterococcus" ([Link](zotero://open-pdf/library/items/G2SD5DFS?page=16) ) ^2632f4
 
 "spp. are also found to dominate the ileal environment [39, 41, 42]" ([Link](zotero://open-pdf/library/items/G2SD5DFS?page=17) )
 
@@ -741,7 +741,7 @@ In the research works of the present thesis, 16S rRNA gene sequencing and metapr
 
 "Videnska et al. [43]." ([Link](zotero://open-pdf/library/items/G2SD5DFS?page=17) )
 
-"A handful of studies focused on the characterization of the chicken gut microbiota both in terms of composition and functions. Sergeant and colleagues recently investigated the cecal microbiota using a deep microbial community profiling technique; whilst, information on the potential functions were obtained through metagenomic investigation [44]. Similarly, Tang et al. (2014) investigated the chicken fecal microbiota via 16S rRNA gene sequencing and metaproteomics, elucidating the bacterial" ([Link](zotero://open-pdf/library/items/G2SD5DFS?page=17) )
+"A handful of studies focused on the characterization of the chicken gut microbiota both in terms of composition and functions. Sergeant and colleagues recently investigated the cecal microbiota using a deep microbial community profiling technique; whilst, information on the potential functions were obtained through metagenomic investigation [44]. Similarly, Tang et al. (2014) investigated the chicken fecal microbiota via 16S rRNA gene sequencing and metaproteomics, elucidating the bacterial" ([Link](zotero://open-pdf/library/items/G2SD5DFS?page=17) ) ^88c84b
 
 "phylogenetic distribution and the ongoing metabolic processes in the gut of a healthy chicken [45]." ([Link](zotero://open-pdf/library/items/G2SD5DFS?page=18) )
 
@@ -1041,7 +1041,7 @@ In the research works of the present thesis, 16S rRNA gene sequencing and metapr
 
 "Amit-Romach et al. has shown that the relative proportion of Lactobacillus spp. in duodenum and jejunum increases within age [48]." ([Link](zotero://open-pdf/library/items/G2SD5DFS?page=55) )
 
-"The chicken's ileum harbors Lactobacillus in higher abundance (&gt; 68%) and in lower abundances Streptococcus, Enterobacteriaceae and Clostridiaceae [28, 43]." ([Link](zotero://open-pdf/library/items/G2SD5DFS?page=55) )
+"The chicken's ileum harbors Lactobacillus in higher abundance (&gt; 68%) and in lower abundances Streptococcus, Enterobacteriaceae and Clostridiaceae [28, 43]." ([Link](zotero://open-pdf/library/items/G2SD5DFS?page=55) ) ^8cb0f5
 
 "Lu et al. demonstrated that during all different stages of microbial community development in the ileum Lactobacilli were dominant [26]. This gut section is also known to be colonized by novel butyrate producing bacteria that may play an important role regarding the availability of nutrients, absorption rate and chicken performance [47]." ([Link](zotero://open-pdf/library/items/G2SD5DFS?page=55) )
 

@@ -13,38 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "segments/Ceca.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26954943ab6363a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "citations/zouSystematicProfilingChicken2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "0fefde70511f9708",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "91a8feaae60ee35a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "citations/oakleyChickenGastrointestinalMicrobiome2014.md",
+                "file": "segments/Small-Intestine(Duodneum,Illium,Jejunum).md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "segments/Ceca.md",
+                "file": "citations/tiloccaEffectsDietsDifferent2019.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scfa",
+                "query": "sergeant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "citations/zouSystematicProfilingChicken2022.md",
+                "file": "segments/Small-Intestine(Duodneum,Illium,Jejunum).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "citations/zouSystematicProfilingChicken2022.md",
+                "file": "segments/Small-Intestine(Duodneum,Illium,Jejunum).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "citations/zouSystematicProfilingChicken2022.md"
+                "file": "segments/Small-Intestine(Duodneum,Illium,Jejunum).md"
               }
             }
           }
@@ -186,17 +154,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "26954943ab6363a2",
+  "active": "83cdcc1283a76a82",
   "lastOpenFiles": [
     "citations/tiloccaEffectsDietsDifferent2019.md",
+    "segments/Small-Intestine(Duodneum,Illium,Jejunum).md",
+    "bigqs/roles-of-scfas.md",
+    "segments/Ceca.md",
+    "segments/Untitled.md",
+    "citations/qinHumanGutMicrobial2010.md",
+    "citations/zouSystematicProfilingChicken2022.md",
     "citations/oakleyChickenGastrointestinalMicrobiome2014.md",
     "bigqs/roles-of-scfas.md.md",
-    "citations/jozefiakCarbohydrateFermentationAvian2004.md",
-    "citations/2022-11-07-dehauomicstechnologiespoultry2022/index.md",
-    "bigqs/2022-11-07-open-questions-and-evidence-they-may-have-been-answered/index.md",
-    "segments/Small-Intestine(Duodneum,Illium,Jejunum).md",
-    "citations/2022-11-07-chensystembiologyperspective2018/index.md",
-    "bigqs/2022-11-07-experimental-design-for-microbial-analysis/index.md",
-    "segments/Ceca.md"
+    "citations/jozefiakCarbohydrateFermentationAvian2004.md"
   ]
 }
