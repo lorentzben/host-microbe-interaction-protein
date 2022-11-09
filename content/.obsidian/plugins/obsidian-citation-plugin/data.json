@@ -1,7 +1,7 @@
 {
   "citationExportFormat": "biblatex",
   "literatureNoteTitleTemplate": "@{{citekey}}",
-  "literatureNoteFolder": "Reading notes",
+  "literatureNoteFolder": "citations",
   "literatureNoteContentTemplate": "# {{title}}\n#### ({{year}}) - {{authorString}}\n- **Link**:: {{URL}}\n- **DOI**:: {{DOI}}\n- **Links**:: \n- **Tags**:: #paper\n- **Cite Key**:: [@{{citekey}}] \n\n### Abstract\n{{abstract}}\n\n### Notes\n{{note}}",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",

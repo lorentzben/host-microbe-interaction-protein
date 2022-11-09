@@ -56,7 +56,7 @@ description: "Description for the page"
 
 “greater absorption of methionine in the ileum than in other regions of the small intestine” (Scanes, 2021, p. 457) 
 
-<a id="^678fb9"></a> “Methionine is absorbed at the highest rate, followed by isoleucine, valine, and leucine, and glutamate is absorbed at the lowest rate, followed by aspartate, glycine, and arginine (Tasaki and Takahashi, 1966; Riley et al., 1986)” (Scanes, 2021, p. 457)  ^678fb9
+<a id="^678fb9"></a><a id="^678fb9"></a> “Methionine is absorbed at the highest rate, followed by isoleucine, valine, and leucine, and glutamate is absorbed at the lowest rate, followed by aspartate, glycine, and arginine (Tasaki and Takahashi, 1966; Riley et al., 1986)” (Scanes, 2021, p. 457)  ^678fb9
 
 “Tasaki and Takahashi, 1966; Riley et al., 1986” (Scanes, 2021, p. 457) 
 

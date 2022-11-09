@@ -32,17 +32,18 @@ description: "Description for the page"
 
 "90" ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=2) )
 
-"Microbial densities in the proximal and middle small intestine are relatively low but increase dramatically in the distal small intestine (approximately 108 bacteria/ml of luminal contents) and colon (10u-1012/g) (90)." ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=2) )
+
+<a id="^42e6d0"></a>"Microbial densities in the proximal and middle small intestine are relatively low but increase dramatically in the distal small intestine (approximately 108 bacteria/ml of luminal contents) and colon (10u-1012/g) (90)." ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=2) ) ^42e6d0
 
 "90" ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=2) )
 
-"This metabolic entity plays a critical role in nutrition, degrading a number of dietary substances that are oth­ erwise nondigestible (91)." ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=2) )
+"This metabolic entity plays a critical role in nutrition, degrading a number of dietary substances that are otherwise nondigestible (91)." ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=2) )
 
 "91" ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=2) )
 
 "By recruiting a society of resident microbes with metabolic capabilities that allow them to break down these compounds, the host is relieved of the need to evolve such functions." ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=2) )
 
-"However, the microbial ecology of the intestine exhibits an astonishing degree of spatial and temporal complexity, mak­ ing defining normal a daunting task." ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=3) )
+"However, the microbial ecology of the intestine exhibits an astonishing degree of spatial and temporal complexity, making defining normal a daunting task." ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=3) )
 
 <i>A neverending problem ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=3)</i> )
 
@@ -54,7 +55,7 @@ description: "Description for the page"
 
 <i>A big if ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=3)</i> )
 
-"The intestinal ecosystem is shaped by interactions between its microbes (both intraand interspecies communications), epithelium, mucosal immune system, microvasculature, and enteric nervous system (36)" ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=3) )
+"The intestinal ecosystem is shaped by interactions between its microbes (both intra and interspecies communications), epithelium, mucosal immune system, microvasculature, and enteric nervous system (36)" ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=3) )
 
 "36)" ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=3) )
 
@@ -72,17 +73,17 @@ description: "Description for the page"
 
 "Second, the presence of microbes can alter the intrinsic metabolic machinery of host cells, resulting in more efficient nutrient uptake and utilization." ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=5) )
 
-"Mammals are well equipped to absorb simple sugars such as glucose and galactose in the proximal portion of their small intestine (29)." ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=5) )
+<a id="^ac2483"></a>"Mammals are well equipped to absorb simple sugars such as glucose and galactose in the proximal portion of their small intestine (29)." ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=5) ) ^ac2483
 
 "29" ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=5) )
 
 "They can hydrolyze certain disaccharides (e.g., sucrose, lactose, and maltose) to their constituent monosaccharides." ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=5) )
 
-"They can also degrade starch to glu­ cose monomers but are generally limited in their capacity to hydrolyze and utilize other polysaccharides." ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=5) )
+"They can also degrade starch to glucose monomers but are generally limited in their capacity to hydrolyze and utilize other polysaccharides." ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=5) )
 
-"Therefore, a large quantity of undigested dietary carbo­ hydrate passes into the distal portion of the gastrointestinal tract each day. This material includes polysaccharides from components of plant cell walls (including cellulose, xylan, and pectin) as well as undigested starch." ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=5) )
+"Therefore, a large quantity of undigested dietary carbohydrate passes into the distal portion of the gastrointestinal tract each day. This material includes polysaccharides from components of plant cell walls (including cellulose, xylan, and pectin) as well as undigested starch." ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=5) )
 
-"In the proximal gut, bacterial competition for absorbable monosaccharides could be detrimental to the host, but in nonruminants coloniza­ tion is sparse in this region." ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=5) )
+"In the proximal gut, bacterial competition for absorbable monosaccharides could be detrimental to the host, but in nonruminants colonization is sparse in this region." ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=5) )
 
 "Microbial digestion of carbohydrate polymers that reach the distal gut could benefit the host by helping it extract nutrient value from otherwise poorly utilized dietary substrates." ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=5) )
 
@@ -98,4 +99,5 @@ description: "Description for the page"
 
 "This group of anaerobes can degrade and ferment a wide variety of polysaccharides, including xylan (83), psyllium hydrocolloid (84), and numerous other plant polysaccharides (88)." ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=5) )
 
-"In addition to their ability to hydrolyze numerous plant polysaccharides, Bacteroides species have also evolved the capacity to degrade a variety of host-derived glycoconjugates (glycans) including chondroitin sulfate (85,87), mucin (88), hy­ aluronate (9), and heparin (8)" ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=8))
+
+<a id="^4988a5"></a>"In addition to their ability to hydrolyze numerous plant polysaccharides, Bacteroides species have also evolved the capacity to degrade a variety of host-derived glycoconjugates (glycans) including chondroitin sulfate (85,87), mucin (88), hyaluronate (9), and heparin (8)" ([Link](zotero://open-pdf/library/items/UCRZVSNB?page=8)) ^4988a5

@@ -44,3 +44,7 @@ Dietary Protein -
 [zymogen](/citations/scanesProteinMetabolism2021#^d0c6ae) - an inactive substance thats turned into an enzyme when activated by another enzyme [source](https://www.google.com/search?client=firefox-b-1-d&q=zymogen)
 
 [host goblet cells](/citations/zhangSpatialMicrobialComposition2017#^f4205b) - cells in the GI tract that produce and preserve mucus made of glycoprotiens [source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4235714/)
+
+[Symbiotic Orgamisms](/citations/fronkSymbioticOrgansNexus2022#^00fa08) - "A feature that is common to host-associated microbes, including pathogens and mutualists, is that they invariably consume host resources to establish on the host, reproduce in host tissues, and gain transmission to new hosts or habitats" 
+
+[glycoconjugates/glycans](/citations/hooperHowHostmicrobialInteractions2002#^4988a5) - a family of carbohydrates, include glycoprotiens, glycopeptieds, glycolipids and glycosides [source](https://en.wikipedia.org/wiki/Glycoconjugate)

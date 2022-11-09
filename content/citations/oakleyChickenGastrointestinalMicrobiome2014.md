@@ -30,7 +30,8 @@ _In 2014 i ([note on p.100](zotero://open-pdf/library/items/DCIPX6EN?page=1))_
 
   
 
-"cecal communities dominated by Firmicutes and Bacteroides at the phylum level, while at finer levels of taxonomic resolution, a phylogenetically diverse assemblage of microorganisms appears to have similar metabolic functions that provide important benefits to the host as inferred from metagenomic data." ([Oakley et al 2014:100](zotero://open-pdf/library/items/DCIPX6EN?page=1))
+
+<a id="^591b5e"></a>"cecal communities dominated by Firmicutes and Bacteroides at the phylum level, while at finer levels of taxonomic resolution, a phylogenetically diverse assemblage of microorganisms appears to have similar metabolic functions that provide important benefits to the host as inferred from metagenomic data." ([Oakley et al 2014:100](zotero://open-pdf/library/items/DCIPX6EN?page=1)) ^591b5e
 
 "We foresee advances in strategies to improve gut health in commercial operations through management of the intestinal microbiota as an alternative to in-feed subtherapeutic antibiotics, improvements in preand probiotics, improved management of polymicrobial poultry diseases, and better control of human pathogens via colonization reduction or competitive exclusion strategies." ([Oakley et al 2014:100](zotero://open-pdf/library/items/DCIPX6EN?page=1))
 
@@ -42,21 +43,21 @@ _In 2014 i ([note on p.100](zotero://open-pdf/library/items/DCIPX6EN?page=1))_
 
 "Third, single-cell microbiology is a rapidly emerging and powerful set of approaches largely driven by the realization that populations of cells previously considered as clonal entities are in fact genotypically and phenotypically heterogeneou" ([Oakley et al 2014:101](zotero://open-pdf/library/items/DCIPX6EN?page=2))
 
-"Briefly, beginning in the crop, starch breakdown, and lactate fermentation are mediated by a community dominated by various Lactobacillus spp. at cell densities up to 109 g1 (van der Wielen et al., 2002; Rehman et al., 2007; Stanley et al., 2014)" ([Oakley et al 2014:101](zotero://open-pdf/library/items/DCIPX6EN?page=2))
+<a id="^7e2dc9"></a>"Briefly, beginning in the crop, starch breakdown, and lactate fermentation are mediated by a community dominated by various Lactobacillus spp. at cell densities up to 109 g1 (van der Wielen et al., 2002; Rehman et al., 2007; Stanley et al., 2014)" ([Oakley et al 2014:101](zotero://open-pdf/library/items/DCIPX6EN?page=2)) ^7e2dc9
 
 "Lactobacilli also dominate the proventriculus, a thick-walled stomach, and the ventriculus (gizzard). The gizzard has been described as the 'teeth' of the gastrointestinal tract where a majority of mechanical and chemical breakdown of feed is performed (Ensminger, 1971; Rehman et al., 2007); the low pH of gastric juices containing hydrochloric acid and pepsin limits the total number of cells below 108 g1 (Yeoman et al., 2012)" ([Oakley et al 2014:101](zotero://open-pdf/library/items/DCIPX6EN?page=2))
 
-"The small intestine harbors large (109-1011 cells g1) bacterial populations dominated by Lactobacillus, Enterococcus, and various Clostridiaceae (van der Wielen et al., 2002; Rehman et al., 2007; Kohl, 2012; Pan & Yu, 2013; Stanley et al., 2014; Waite & Taylor, 2014)." ([Oakley et al 2014:101](zotero://open-pdf/library/items/DCIPX6EN?page=2))
+<a id="^93efae"></a>"The small intestine harbors large (109-1011 cells g1) bacterial populations dominated by Lactobacillus, Enterococcus, and various Clostridiaceae (van der Wielen et al., 2002; Rehman et al., 2007; Kohl, 2012; Pan & Yu, 2013; Stanley et al., 2014; Waite & Taylor, 2014)." ([Oakley et al 2014:101](zotero://open-pdf/library/items/DCIPX6EN?page=2)) ^93efae
 
-"Several excellent recent reviews provide additional details regarding the taxonomic composition of microbial communities typically found in the different sections of the gastrointestinal tract (van der Wielen et al., 2002; Rehman et al., 2007; Kohl, 2012; Yeoman et al., 2012; Pan & Yu, 2013; Stanley et al., 2014; Waite & Taylor, 2014)" ([Oakley et al 2014:101](zotero://open-pdf/library/items/DCIPX6EN?page=2))
+<a id="^706c8d"></a>"Several excellent recent reviews provide additional details regarding the taxonomic composition of microbial communities typically found in the different sections of the gastrointestinal tract (van der Wielen et al., 2002; Rehman et al., 2007; Kohl, 2012; Yeoman et al., 2012; Pan & Yu, 2013; Stanley et al., 2014; Waite & Taylor, 2014)" ([Oakley et al 2014:101](zotero://open-pdf/library/items/DCIPX6EN?page=2)) ^706c8d
 
 "van der Wielen et al., 2002; Rehman et al., 2007; Kohl, 2012; Yeoman et al., 2012; Pan & Yu, 2013; Stanley et al., 2014; Waite & Taylor, 2014" ([Oakley et al 2014:101](zotero://open-pdf/library/items/DCIPX6EN?page=2))
 
 "important sites for recycling of ure" ([Oakley et al 2014:101](zotero://open-pdf/library/items/DCIPX6EN?page=2))
 
-"Here, we focus on the ceca as organs of particular interest as they harbor the highest microbial cell densities (up to 1011 cells g1), have the longest residence time (12-20 h) of digesta in the gastrointestinal tract, and are important sites for recycling of urea, water regulation, and carbohydrate fermentations contributing to intestinal health and nutrition (Ensminger, 1971; Clench & Mathias, 1995; Sergeant et al., 2014; Waite & Taylor, 2014)" ([Oakley et al 2014:101](zotero://open-pdf/library/items/DCIPX6EN?page=2))
+<a id="^028138"></a>"Here, we focus on the ceca as organs of particular interest as they harbor the highest microbial cell densities (up to 1011 cells g1), have the longest residence time (12-20 h) of digesta in the gastrointestinal tract, and are important sites for recycling of urea, water regulation, and carbohydrate fermentations contributing to intestinal health and nutrition (Ensminger, 1971; Clench & Mathias, 1995; Sergeant et al., 2014; Waite & Taylor, 2014)" ([Oakley et al 2014:101](zotero://open-pdf/library/items/DCIPX6EN?page=2)) ^028138
 
-"Although chickens can survive with experimentally removed ceca (Clench & Mathias, 1995), around 10% of energy may be provided by digestive processes in the ceca where short chain fatty acids (SCFAs) concentrations are higher than elsewhere in the gastrointestinal tract (Jozefiak et al., 2004)." ([Oakley et al 2014:101](zotero://open-pdf/library/items/DCIPX6EN?page=2))
+<a id="^3ffd99"></a>"Although chickens can survive with experimentally removed ceca (Clench & Mathias, 1995), around 10% of energy may be provided by digestive processes in the ceca where short chain fatty acids (SCFAs) concentrations are higher than elsewhere in the gastrointestinal tract (Jozefiak et al., 2004)." ([Oakley et al 2014:101](zotero://open-pdf/library/items/DCIPX6EN?page=2)) ^3ffd99
 
 "facilitating direct comparisons across multiple studies," ([Oakley et al 2014:101](zotero://open-pdf/library/items/DCIPX6EN?page=2))
 
@@ -72,7 +73,7 @@ _In 2014 i ([note on p.100](zotero://open-pdf/library/items/DCIPX6EN?page=1))_
 
 "Of particular interest is a recent study in which over 200 different nonstarch polysaccharide (NSP) degrading enzymes were found, including a potentially novel pathway for propionate production (Sergeant et al., 2014)." ([Oakley et al 2014:102](zotero://open-pdf/library/items/DCIPX6EN?page=3))
 
-"Additionally, the discovery of uptake hydrogenases from some of the most abundant genera (Megamonas, Helicobacter, and Campylobacter) supports interesting speculations regarding a possible mechanism by which SCFA production is promoted by these taxa acting as hydrogen sinks (Sergeant et al., 2014)." ([Oakley et al 2014:102](zotero://open-pdf/library/items/DCIPX6EN?page=3))
+"Additionally, the discovery of uptake hydrogenases from some of the most abundant genera (Megamonas, Helicobacter, and Campylobacter) supports interesting speculations regarding a possible mechanism by which SCFA production is promoted by these taxa acting as hydrogen sinks (Sergeant et al., 2014)." ([Oakley et al 2014:102](zotero://open-pdf/library/items/DCIPX6EN?page=3)) ^e08c18
 
 _What's a hydrogen sink? ([note on p.102](zotero://open-pdf/library/items/DCIPX6EN?page=3))_
 

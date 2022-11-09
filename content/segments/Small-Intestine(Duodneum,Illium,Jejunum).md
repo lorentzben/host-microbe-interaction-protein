@@ -32,3 +32,9 @@ In the Attwter Prarie Chicken certain taxa were identified :
 
 ["Micrococcaceae (29.8 %), Planococcaceae (7.2 %), Pseudomonadaceae (7.2 %), Enterobacteriaceae (5.4 %), and Erysipelotrichaceae (4.2 %)."](/citations/zhangSpatialMicrobialComposition2017/)
 ["Micrococcaceae was the most dominant bacterial family in half of the ileum (4/8), large intestine (4/8), and cloaca (5/8) samples. The microbial communities in the cecum were dominated by five to seven relatively high abundant (5.5-37.8 %) families including Enterobacteriaceae (13.9 % ± 13.4 %), Ruminococcaceae (12.9 % ± 7.6 %), Lachnospiraceae (10.6 % ± 4.5 %), Coriobacteriaceae (7.2 % ± 4.7 %), and Erysipelotrichaceae (3.9 % ± 6.2 %)."](/citations/zhangSpatialMicrobialComposition2017/)
+
+In mammals specifically, but theres a good chance this holds in poultry.
+
+["Microbial densities in the proximal and middle small intestine are relatively low but increase dramatically in the distal small intestine (approximately 108 bacteria/ml of luminal contents) and colon (10u-1012/g) (90)."](/citations/hooperHowHostmicrobialInteractions2002#^42e6d0)
+
+[Mammals absorbe simple sugars in their small intestine, can birds do the same thing?](/bigqs/2022-11-07-open-questions-and-evidence-they-may-have-been-answered/index#^567386)

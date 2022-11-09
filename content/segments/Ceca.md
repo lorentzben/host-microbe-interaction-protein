@@ -23,7 +23,23 @@ Some fermentation occurs in the ceca this includes the Non starch polysaccharide
 
 [“NSPs can be hydrolyzed by enzymes produced by the cecal microflora or by supplementation of poultry diets with specific feed enzymes (Choct et al., 1999; Jamroz et al., 2002).” (Józefiak et al., 2004, p. 2) ](/citations/jozefiakCarbohydrateFermentationAvian2004/)
 
+["Although chickens can survive with experimentally removed ceca (Clench & Mathias, 1995), around 10% of energy may be provided by digestive processes in the ceca where short chain fatty acids (SCFAs) concentrations are higher than elsewhere in the gastrointestinal tract (Jozefiak et al., 2004)."](/citations/oakleyChickenGastrointestinalMicrobiome2014#^3ffd99)
+
+Megamonas, Helicobacter, and Campylobacter are curious taxa that may be acting as "hydrogen sinks" and producing these SCFAs which [oakley meantioned](/citations/oakleyChickenGastrointestinalMicrobiome2014#^e08c18)
+[This has support by sergant (but I still have yet to read this paper)](/citations/sergeantExtensiveMicrobialFunctional2014)
+
+
+
 Some of the roles of the ceca
 [“Many researchers have speculated about the role of the avian ceca. There is evidence that the ceca play a role in the microbial degradation of some carbohydrates (Jorgensen et al., 1996; Jamroz et al., 2002), absorption of water (McNab, 1973), microbial synthesis of vitamins (Coates et al., 1968), cholesterol digestion and absorption (Tortuero et al., 1975)” (Józefiak et al., 2004, p. 2)](/citations/jozefiakCarbohydrateFermentationAvian2004/)
 
 [“Van der Wielen et al. (2000) demonstrated that high fermentation activity in chicken ceca was correlated with a lower pH” (Józefiak et al., 2004, p. 11)](/citations/jozefiakCarbohydrateFermentationAvian2004/)
+
+["Here, we focus on the ceca as organs of particular interest as they harbor the highest microbial cell densities (up to 1011 cells g1), have the longest residence time (12-20 h) of digesta in the gastrointestinal tract, and are important sites for recycling of urea, water regulation, and carbohydrate fermentations contributing to intestinal health and nutrition (Ensminger, 1971; Clench & Mathias, 1995; Sergeant et al., 2014; Waite & Taylor, 2014)"](/citations/oakleyChickenGastrointestinalMicrobiome2014#^028138)
+
+Who is present in the ceca?
+
+Firmicutes and Bacteroides
+
+["cecal communities dominated by Firmicutes and Bacteroides at the phylum level, while at finer levels of taxonomic resolution, a phylogenetically diverse assemblage of microorganisms appears to have similar metabolic functions that provide important benefits to the host as inferred from metagenomic data."](/citations/oakleyChickenGastrointestinalMicrobiome2014#^591b5e)
+
