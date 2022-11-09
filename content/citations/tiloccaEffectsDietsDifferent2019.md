@@ -10,7 +10,7 @@ description: "Description for the page"
 ---
 # Effects of diets with different phosporus availability on the intestinal microbiota of chickens and pigs
 #### (2019) - Bruno Tilocca
-- **Link**:: 
+- **Link**:: https://www.researchgate.net/publication/331801011_Effects_of_diets_with_different_phosporus_availability_on_the_intestinal_microbiota_of_chickens_and_pigs
 - **DOI**:: 
 - **Links**:: 
 - **Tags**:: #paper

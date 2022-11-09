@@ -11,7 +11,7 @@ meta_img: images/image.png
 description: Description for the page
 ---
 
-# Food Intake Regulation
+# Food Intake Regulation (Chapter from Sturkies 7th)
 #### (2021) - Michael Denbow, Mark Cline
 - **Link**:: 
 - **DOI**:: 

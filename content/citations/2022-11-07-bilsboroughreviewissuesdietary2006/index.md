@@ -36,11 +36,11 @@ Considerable debate has taken place over the safety and validity of increased pr
 
 "This is despite the fact that no studies have evaluated the upper limit of amino acid intake (21), and no formal risk assessment paradigm for intakes of amino acids that are in significant excess of physiological requirements have been established (22). This should be a concern for any health professional advocating a high protein diet." ([Link](zotero://open-pdf/library/items/2N6N224N?page=3) )
 
-"However, the role of dietary protein and amino acids in modulating insulin and glucagon secretion are less clear, as is an understanding of what fraction of amino acid load contributes to structural/functional protein needs, oxidation, gluconeogenesis, or a combination of all three" ([Link](zotero://open-pdf/library/items/2N6N224N?page=3) ) ^e68058
+<a id="^e68058"></a> "However, the role of dietary protein and amino acids in modulating insulin and glucagon secretion are less clear, as is an understanding of what fraction of amino acid load contributes to structural/functional protein needs, oxidation, gluconeogenesis, or a combination of all three" ([Link](zotero://open-pdf/library/items/2N6N224N?page=3) ) ^e68058
 
 "Amino acid catabolism must occur in a way that does not elevate blood ammonia (26)." ([Link](zotero://open-pdf/library/items/2N6N224N?page=4) )
 
-"Catabolism of amino acids occurs in the liver, which contains the urea cycle (26), however the rate of conversion of amino acid derived ammonia to urea is limited" ([Link](zotero://open-pdf/library/items/2N6N224N?page=4) ) ^252223
+<a id="^252223"></a> "Catabolism of amino acids occurs in the liver, which contains the urea cycle (26), however the rate of conversion of amino acid derived ammonia to urea is limited" ([Link](zotero://open-pdf/library/items/2N6N224N?page=4) ) ^252223
 
 "Rudman et al. (27) found that the maximal rate of urea excretion (MRUE) in healthy individuals was 55 mg urea N ∙ h-1 ∙ kg-0.75, which is reached at an intake level of 0.53 g protein N/kg-0.75" ([Link](zotero://open-pdf/library/items/2N6N224N?page=4) )
 
@@ -112,7 +112,7 @@ Considerable debate has taken place over the safety and validity of increased pr
 
 "75" ([Link](zotero://open-pdf/library/items/2N6N224N?page=12) )
 
-"The advantage of oxidizing most amino acids in the liver to glucose is that only the liver need expend the energy needed to synthesize the entire complex array of enzymes involved in amino acid oxidation" ([Link](zotero://open-pdf/library/items/2N6N224N?page=12) ) ^a0ed55
+<a id="^a0ed55"></a> "The advantage of oxidizing most amino acids in the liver to glucose is that only the liver need expend the energy needed to synthesize the entire complex array of enzymes involved in amino acid oxidation" ([Link](zotero://open-pdf/library/items/2N6N224N?page=12) ) ^a0ed55
 
 "If diets relatively high in protein are to be tolerated it is likely that an evolutionary mechanism exists to metabolize some amino acids in peripheral tissues. Branched chain amino acids (BCAA) such as leucine, valine, and isoleucine, which yield high levels of ATP relative to their yield of glucose, are excellent candidates for this and are known to be oxidized in muscle tissue (71)." ([Link](zotero://open-pdf/library/items/2N6N224N?page=13) )
 

@@ -70,7 +70,7 @@ In biology, molecular terms with the suffix “-omics” refer to disciplines ai
 
 "for review see Upadhyaya et al., 2019)" ([Link](zotero://open-pdf/library/items/REIYLVKJ?page=6) )
 
-"Caecal bacterial taxa such as Faecalibacterium prausnitzii, Ruminococcus genus, Lachnospiraceae family and Bacteroides genus, are associated with good bird performance or low feed conversion ratio (FCR) (Stanley et al., 2012, 2013, 2014, 2016; Singh et al., 2012; Johnson et al., 2018)." ([Link](zotero://open-pdf/library/items/REIYLVKJ?page=6) ) ^f77bd9
+<a id="^f77bd9"></a> "Caecal bacterial taxa such as Faecalibacterium prausnitzii, Ruminococcus genus, Lachnospiraceae family and Bacteroides genus, are associated with good bird performance or low feed conversion ratio (FCR) (Stanley et al., 2012, 2013, 2014, 2016; Singh et al., 2012; Johnson et al., 2018)." ([Link](zotero://open-pdf/library/items/REIYLVKJ?page=6) ) ^f77bd9
 
 "can degrade complex indigestible carbohydrates present in chicken feed, such as cellulose and hemicellulose, into end metabolites that can be utilized by the bird, thereby providing additional energy to the bird" ([Link](zotero://open-pdf/library/items/REIYLVKJ?page=6) )
 
@@ -98,7 +98,7 @@ In biology, molecular terms with the suffix “-omics” refer to disciplines ai
 
 "Indeed, multiple studies have observed large discrepancies between the active microbiome derived from metaproteomics, and the total microbiome obtained through 16S rRNA gene sequencing (Tang et al., 2014; Borda-Molina et al., 2016, 2018)" ([Link](zotero://open-pdf/library/items/REIYLVKJ?page=7) )
 
-"In one example, metabolomics was employed to understand the caecum microbiome-host interaction during Salmonella infection in young layers (Mon et al., 2020)" ([Link](zotero://open-pdf/library/items/REIYLVKJ?page=7) ) ^c90692
+<a id="^c90692"></a> "In one example, metabolomics was employed to understand the caecum microbiome-host interaction during Salmonella infection in young layers (Mon et al., 2020)" ([Link](zotero://open-pdf/library/items/REIYLVKJ?page=7) ) ^c90692
 
 <i>This might be good to evaluate or ([Link](zotero://open-pdf/library/items/REIYLVKJ?page=7)</i> )
 

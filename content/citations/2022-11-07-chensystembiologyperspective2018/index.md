@@ -57,7 +57,7 @@ A vast, complex and dynamic consortium of microorganisms known as the gut microb
 
 "adding the gut microbiome to the prediction model may not explain extra inter-individual variation but microbiome-targeting approaches can alleviate the impact of genetics and environmental factors on the susceptibility of complex diseases." ([Link](zotero://open-pdf/library/items/VH7FZWLS?page=3) )
 
-"This kind of causal model can be tested by transferring geneticor diet-modulated faecal microbiome from donors to receivers and assessing whether the corresponding phenotype was transmitted or not." ([Link](zotero://open-pdf/library/items/VH7FZWLS?page=3) ) ^f32d44
+<a id="^f32d44"></a>"This kind of causal model can be tested by transferring geneticor diet-modulated faecal microbiome from donors to receivers and assessing whether the corresponding phenotype was transmitted or not." ([Link](zotero://open-pdf/library/items/VH7FZWLS?page=3) ) ^f32d44
 
 "Interaction model the impact of genetics and environmental factors on a complex disease will depend on the gut microbiome and on the interactions between all three" ([Link](zotero://open-pdf/library/items/VH7FZWLS?page=3) )
 

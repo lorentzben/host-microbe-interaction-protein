@@ -10,7 +10,7 @@ description: "Description for the page"
 ---
 
 
-# Protein Metabolism
+# Protein Metabolism (A Chapter from Sturkies 7th)
 #### (2021) - Colin G. Scanes
 - **Link**:: 
 - **DOI**:: 
@@ -32,7 +32,7 @@ description: "Description for the page"
 
 “Lysine and methionine are the first limiting amino acids for growth (Bornstein and Lipstein, 1975).” (Scanes, 2021, p. 455) 
 
-“20.2 DIGESTION OF PROTEINS Proteins are digested in the gastrointestinal tract to amino acids and dipeptides together with tripeptides. The predominant site for protein digestion is the small intestine. The amino acids and peptides are absorbed in the small intestine.” (Scanes, 2021, p. 456)  ^fdb5b3
+<a id="^fdb5b3"></a> “20.2 DIGESTION OF PROTEINS Proteins are digested in the gastrointestinal tract to amino acids and dipeptides together with tripeptides. The predominant site for protein digestion is the small intestine. The amino acids and peptides are absorbed in the small intestine.” (Scanes, 2021, p. 456)  ^fdb5b3
 
 “Mechanical grinding by the gizzard l Chemical denaturation by the low pH l Enzymatic proteolysis by pepsin” (Scanes, 2021, p. 456) 
 
@@ -154,7 +154,7 @@ description: "Description for the page"
 
 "Lysine and methionine are the first limiting amino acids for growth (Bornstein and Lipstein, 1975)." ([Link](zotero://open-pdf/library/items/GASDAVLC?page=1) )
 
-"20.2 DIGESTION OF PROTEINS Proteins are digested in the gastrointestinal tract to amino acids and dipeptides together with tripeptides. The predominant site for protein digestion is the small intestine. The amino acids and peptides are absorbed in the small intestine." ([Link](zotero://open-pdf/library/items/GASDAVLC?page=2) ) ^193699
+<a id="^193699"></a> "20.2 DIGESTION OF PROTEINS Proteins are digested in the gastrointestinal tract to amino acids and dipeptides together with tripeptides. The predominant site for protein digestion is the small intestine. The amino acids and peptides are absorbed in the small intestine." ([Link](zotero://open-pdf/library/items/GASDAVLC?page=2) ) ^193699
 
 "Mechanical grinding by the gizzard Chemical denaturation by the low pH Enzymatic proteolysis by pepsin" ([Link](zotero://open-pdf/library/items/GASDAVLC?page=2) )
 
@@ -164,7 +164,7 @@ description: "Description for the page"
 
 "Proteins undergo enzymatic digestion in the small intestine by the enzymes trypsin and chymotrypsin. These are produced by the pancreas as inactive zymogens (respectively, trypsinogen and chymotrypsinogen) and transported to the small intestine in the pancreatic secretions. In the small intestine, both trypsinogen and chymotrypsinogen are activated by proteolytic cleavage: Trypsinogen → trypsin Chymotrypsinogen → chymotrypsin" ([Link](zotero://open-pdf/library/items/GASDAVLC?page=3) )
 
-"Six members of the trypsinogen gene family have been characterized in the chicken (Wang et al., 1995)," ([Link](zotero://open-pdf/library/items/GASDAVLC?page=3) ) These are expressed in the pancreas along with the liver, spleen, and thymus (Wang et al., 1995)." ([Link](zotero://open-pdf/library/items/GASDAVLC?page=3) ) ^8b5d06
+<a id="^8b5d06"></a> "Six members of the trypsinogen gene family have been characterized in the chicken (Wang et al., 1995)," ([Link](zotero://open-pdf/library/items/GASDAVLC?page=3) ) These are expressed in the pancreas along with the liver, spleen, and thymus (Wang et al., 1995)." ([Link](zotero://open-pdf/library/items/GASDAVLC?page=3) ) ^8b5d06
 
 "This proteolytic cleavage results in the formation of an active protease, trypsin." ([Link](zotero://open-pdf/library/items/GASDAVLC?page=3) )
 
@@ -238,7 +238,7 @@ description: "Description for the page"
 
 "McFarland and Coon, 1980, 1984" ([Link](zotero://open-pdf/library/items/GASDAVLC?page=10) )
 
-"Glutamine is critically important for uric acid formation (see the Section 20.4.2.3). It is not surprising that glutaminase (catalyzing glutamine to glutamate) is either not present or at very low levels in the avian liver (chicken: Wu et al., 1998)." ([Link](zotero://open-pdf/library/items/GASDAVLC?page=10) ) ^cfe857
+<a id="^cfe857"></a> "Glutamine is critically important for uric acid formation (see the Section 20.4.2.3). It is not surprising that glutaminase (catalyzing glutamine to glutamate) is either not present or at very low levels in the avian liver (chicken: Wu et al., 1998)." ([Link](zotero://open-pdf/library/items/GASDAVLC?page=10) ) ^cfe857
 
 "The predominant organ responsible for uric acid formation is the liver" ([Link](zotero://open-pdf/library/items/GASDAVLC?page=10) )
 
@@ -252,7 +252,7 @@ description: "Description for the page"
 
 "The existence of a urea cycle in birds has been questioned (Stevens, 1996). However, birds have both uric acid and urates as well as urea in the plasma (see Chapter 11)." ([Link](zotero://open-pdf/library/items/GASDAVLC?page=10) )
 
-"The primary ammonia-detoxifying enzyme in the avian liver is glutamine synthase." ([Link](zotero://open-pdf/library/items/GASDAVLC?page=10) ) ^09df18
+<a id="^09df18"></a> "The primary ammonia-detoxifying enzyme in the avian liver is glutamine synthase." ([Link](zotero://open-pdf/library/items/GASDAVLC?page=10) ) ^09df18
 
 "Glutamine synthase is expressed in the liver, brain, and retina" ([Link](zotero://open-pdf/library/items/GASDAVLC?page=10) )
 
@@ -262,4 +262,4 @@ description: "Description for the page"
 
 "Moreover, while glutamine synthase is cytosolic in mammals, the enzyme is located in the mitochondria in birds" ([Link](zotero://open-pdf/library/items/GASDAVLC?page=10) )
 
-"Glutamine is a significant energy source for at least some tissues in birds. For instance, it is the major energy source for avian erythrocytes" ([Link](zotero://open-pdf/library/items/GASDAVLC?page=10)) ^3cbebd
+<a id="^3cbebd"></a> "Glutamine is a significant energy source for at least some tissues in birds. For instance, it is the major energy source for avian erythrocytes" ([Link](zotero://open-pdf/library/items/GASDAVLC?page=10)) ^3cbebd
