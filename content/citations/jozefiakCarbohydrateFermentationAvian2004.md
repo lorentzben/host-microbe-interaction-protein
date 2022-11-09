@@ -63,7 +63,7 @@ Poultry diets are primarily based on plant proteins, with carbohydrates serving 
 
 <a id="^e81e22"></a> “However, in order to postulate on possible advantages that cecal NSP fermentation may have for the host animal, a closer examination of the fermentation end-products (i.e. SCFA) that are produced in the ceca is warranted.” (Józefiak et al., 2004, p. 9)  ^e81e22
 
-“These SCFA include butyrate, acetate, lactate, propionate, valerate, and isovalerate (Jamroz et al., 1998)” (Józefiak et al., 2004, p. 9) 
+<a id="^f3d52a"></a>“These SCFA include butyrate, acetate, lactate, propionate, valerate, and isovalerate (Jamroz et al., 1998)” (Józefiak et al., 2004, p. 9)  ^f3d52a
 
 “Tsukahara and Ushida (2000) reported that feeding a plant protein-based diet to chickens led to a higher production of SCFA than a diet based on animal protein” (Józefiak et al., 2004, p. 10) 
 
@@ -83,7 +83,7 @@ Poultry diets are primarily based on plant proteins, with carbohydrates serving 
 
 <a id="^b11e4d"></a> “this may inhibit some pathogenic bacteria by dissipating the proton motive force across the bacterial cell membrane (Russell, 1992)” (Józefiak et al., 2004, p. 11)  ^b11e4d
 
-“McHan and Shotts (1993) observed a toxic effect of SCFA to some Enterobacteriacae, and in vitro studies showed a 50–80% reduction in Salmonella typhimurium counts in the presence of SCFA.” (Józefiak et al., 2004, p. 11) 
+<a id="^026fc4"></a>“McHan and Shotts (1993) observed a toxic effect of SCFA to some Enterobacteriacae, and in vitro studies showed a 50–80% reduction in Salmonella typhimurium counts in the presence of SCFA.” (Józefiak et al., 2004, p. 11)  ^026fc4
 
 “More research is needed to characterize further the ability of certain SCFA to inhibit pathogenic bacteria” (Józefiak et al., 2004, p. 11) 
 

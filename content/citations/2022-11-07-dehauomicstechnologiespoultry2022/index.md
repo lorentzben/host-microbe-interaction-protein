@@ -74,7 +74,8 @@ In biology, molecular terms with the suffix “-omics” refer to disciplines ai
 
 "can degrade complex indigestible carbohydrates present in chicken feed, such as cellulose and hemicellulose, into end metabolites that can be utilized by the bird, thereby providing additional energy to the bird" ([Link](zotero://open-pdf/library/items/REIYLVKJ?page=6) )
 
-"short chain fatty acids (SCFA), such as butyrate, which is beneficial for gut health as it provides energy to epithelial cells, stimulates cell proliferation, reinforces the gut barrier and may inhibit certain pathogens (Guilloteau et al., 2010)." ([Link](zotero://open-pdf/library/items/REIYLVKJ?page=6) )
+
+<a id="^fd1a28"></a>"short chain fatty acids (SCFA), such as butyrate, which is beneficial for gut health as it provides energy to epithelial cells, stimulates cell proliferation, reinforces the gut barrier and may inhibit certain pathogens (Guilloteau et al., 2010)." ([Link](zotero://open-pdf/library/items/REIYLVKJ?page=6) ) ^fd1a28
 
 "reported for the genus Lactobacillus, even if strains belonging to this genus are commonly used as probiotics in poultry. This might suggest that different strains within this same genus have different effects on feed efficiency and performance (Stanley et al., 2016; Yan et al., 2017; Johnson et al., 2018)." ([Link](zotero://open-pdf/library/items/REIYLVKJ?page=6) )
 
@@ -88,9 +89,9 @@ In biology, molecular terms with the suffix “-omics” refer to disciplines ai
 
 "One of thefirst examples combined both 16S rRNA gene and metagenomic sequencing to assess the effect of anticoccidial and antibiotic treatments on the caecal microbiome (Danzeisen et al., 2011)." ([Link](zotero://open-pdf/library/items/REIYLVKJ?page=7) )
 
-"Pathways for non-starch polysaccharides (NSPs) utilization, SCFA production and hydrogen consumption were identified (Sergeant et al., 2014" ([Link](zotero://open-pdf/library/items/REIYLVKJ?page=7) )
+"Pathways for non-starch polysaccharides (NSPs) utilization, SCFA production and hydrogen consumption were identified (Sergeant et al., 2014" ([Link](zotero://open-pdf/library/items/REIYLVKJ?page=7) ) ^029aa3
 
-"Thefirst gene catalogue of the chicken gut microbiome was created in 2018, covering all intestinal compartments, and generated from metagenomic data (Huang et al., 2018)" ([Link](zotero://open-pdf/library/items/REIYLVKJ?page=7) )
+"The first gene catalogue of the chicken gut microbiome was created in 2018, covering all intestinal compartments, and generated from metagenomic data (Huang et al., 2018)" ([Link](zotero://open-pdf/library/items/REIYLVKJ?page=7) )
 
 "acquired antimicrobial resistance genes in poultry farms (Luiken et al., 2020; Feng et al., 2021)" ([Link](zotero://open-pdf/library/items/REIYLVKJ?page=7) )
 

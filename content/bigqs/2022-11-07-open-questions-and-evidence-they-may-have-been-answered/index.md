@@ -21,7 +21,10 @@ description: Description for the page
 
 [“However, in order to postulate on possible advantages that cecal NSP fermentation may have for the host animal, a closer examination of the fermentation end-products (i.e. SCFA) that are produced in the ceca is warranted.” (Józefiak et al., 2004, p. 9)](/citations/jozefiakCarbohydrateFermentationAvian2004)
 
-### What is the end use of SCFA in the ceca 
+
+<a id="^2d7b97"></a>### What is the end use of SCFA in the ceca 
+
+^2d7b97
 
 We must understand where these SCFA go after they cross through the epithelial membranes
 
@@ -61,3 +64,20 @@ We must understand where these SCFA go after they cross through the epithelial m
 [Crop](/citations/oakleyChickenGastrointestinalMicrobiome2014#^7e2dc9)
 [Small intestine](oakleyChickenGastrointestinalMicrobiome2014#^93efae) 
 [Reviews](/citations/oakleyChickenGastrointestinalMicrobiome2014#^706c8d)
+
+### Suggested probiotic strains, do these guys show up anywhere else?
+
+["In a search for probiotic strains related to chicken performance, Torok et al. (2011) identified sequences related to 
+Lactobacillus salivarius, 
+L. aviarius,
+L. crispatus, 
+Faecalibacterium prausnitzii, 
+E. coli, 
+Gallibacterium anatis, 
+Clostridium lactatifermentans, 
+Ruminococcus torques, 
+Bacteroides vulgatus, and 
+Alistipes finegoldii from ileal and cecal samples. 
+In the lowest portion of the small intestine, 
+Lactobacillus spp. 
+have been implicated as a causal factor in low performance (DeLange & Wijtten, 2010), suggesting the location of colonization by probiotic strains may affect performance. "](/citations/oakleyChickenGastrointestinalMicrobiome2014#^022b3c)

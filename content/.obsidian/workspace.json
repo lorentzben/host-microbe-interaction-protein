@@ -13,31 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "citations/sergeantExtensiveMicrobialFunctional2014.md",
+                "file": "segments/Ceca.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "5da6a1a2e7e58727",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "220a0b304708a5b9",
+            "id": "26954943ab6363a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "citations/sergeantExtensiveMicrobialFunctional2014.md",
+                "file": "citations/zouSystematicProfilingChicken2022.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0fefde70511f9708",
@@ -50,6 +45,24 @@
               "type": "markdown",
               "state": {
                 "file": "citations/oakleyChickenGastrointestinalMicrobiome2014.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b064a0b9493dd38d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b49eee0768a0158",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "segments/Ceca.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "scfa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "citations/sergeantExtensiveMicrobialFunctional2014.md",
+                "file": "citations/zouSystematicProfilingChicken2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "citations/sergeantExtensiveMicrobialFunctional2014.md",
+                "file": "citations/zouSystematicProfilingChicken2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "citations/sergeantExtensiveMicrobialFunctional2014.md"
+                "file": "citations/zouSystematicProfilingChicken2022.md"
               }
             }
           }
@@ -172,17 +186,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "220a0b304708a5b9",
+  "active": "26954943ab6363a2",
   "lastOpenFiles": [
+    "citations/tiloccaEffectsDietsDifferent2019.md",
     "citations/oakleyChickenGastrointestinalMicrobiome2014.md",
-    "citations/sergeantExtensiveMicrobialFunctional2014.md",
-    "segments/Ceca.md",
-    "bigqs/2022-11-07-open-questions-and-evidence-they-may-have-been-answered/index.md",
+    "bigqs/roles-of-scfas.md.md",
+    "citations/jozefiakCarbohydrateFermentationAvian2004.md",
     "citations/2022-11-07-dehauomicstechnologiespoultry2022/index.md",
+    "bigqs/2022-11-07-open-questions-and-evidence-they-may-have-been-answered/index.md",
     "segments/Small-Intestine(Duodneum,Illium,Jejunum).md",
-    "segments/Crop.md",
-    "defs/Definitions.md",
-    "citations/hooperHowHostmicrobialInteractions2002.md",
-    "citations/fronkSymbioticOrgansNexus2022.md"
+    "citations/2022-11-07-chensystembiologyperspective2018/index.md",
+    "bigqs/2022-11-07-experimental-design-for-microbial-analysis/index.md",
+    "segments/Ceca.md"
   ]
 }
