@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "segments/Small-Intestine-(Duodneum,Jejunum,Ileum).md",
+                "file": "bigqs/roles-of-scfas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "segments/Small-Intestine-(Duodneum,Jejunum,Ileum).md",
+                "file": "bigqs/roles-of-scfas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "segments/Small-Intestine-(Duodneum,Jejunum,Ileum).md",
+                "file": "bigqs/roles-of-scfas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "segments/Small-Intestine-(Duodneum,Jejunum,Ileum).md"
+                "file": "bigqs/roles-of-scfas.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "3dc121527a50bf8e",
   "lastOpenFiles": [
-    "segments/Stomach.md",
-    "segments/Small-Intestine-(Duodneum,Jejunum,Ileum).md",
-    "bigqs/2022-11-07-open-questions-and-evidence-they-may-have-been-answered/index.md",
-    "citations/scanesProteinMetabolism2021 2.md",
-    "citations/scanesProteinMetabolism2021 1.md",
-    "segments/Mouth.md",
-    "segments/Liver.md",
-    "segments/Large-Intestine.md",
+    "citations/jozefiakCarbohydrateFermentationAvian2004.md",
+    "bigqs/roles-of-scfas.md",
+    "segments/Ceca.md",
+    "segments/Cloaca.md",
+    "segments/Crop.md",
     "segments/Esophogous.md",
-    "segments/Crop.md"
+    "segments/Large-Intestine.md",
+    "segments/Liver.md",
+    "segments/Mouth.md",
+    "segments/Small-Intestine-(Duodneum,Jejunum,Ileum).md"
   ]
 }

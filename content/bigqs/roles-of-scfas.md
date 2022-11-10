@@ -28,6 +28,5 @@ This sergeant paper comes up three times
 
 [“These SCFA include butyrate, acetate, lactate, propionate, valerate, and isovalerate (Jamroz et al., 1998)” (Józefiak et al., 2004, p. 9) ](/citations/jozefiakCarbohydrateFermentationAvian2004#^f3d52a)
 
-[“McHan and Shotts (1993) observed a toxic effect of SCFA to some Enterobacteriacae, and in vitro studies showed a 50–80% reduction in Salmonella typhimurium counts in the presence of SCFA.” (Józefiak et al., 2004, p. 11) 
-“More research is needed to characterize further the ability of certain SCFA to inhibit pathogenic bacteria” (Józefiak et al., 2004, p. 11)](/citations/jozefiakCarbohydrateFermentationAvian2004#^026fc4)
+[“McHan and Shotts (1993) observed a toxic effect of SCFA to some Enterobacteriacae, and in vitro studies showed a 50–80% reduction in Salmonella typhimurium counts in the presence of SCFA.” (Józefiak et al., 2004, p. 11) “More research is needed to characterize further the ability of certain SCFA to inhibit pathogenic bacteria” (Józefiak et al., 2004, p. 11)](/citations/jozefiakCarbohydrateFermentationAvian2004#^026fc4)
 
