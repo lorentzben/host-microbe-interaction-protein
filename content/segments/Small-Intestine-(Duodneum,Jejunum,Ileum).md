@@ -9,6 +9,8 @@ tags:
 description: "Description for the page"
 ---
 
+The most protein degradation and digestion happens in the small intestine, especially the duodenum and jejunum. Some of the active enzymes that cleve protien are trypsin, chymotrypsin, carboxypeptidase and proelastase. These split off ammino acids are absorbed in the small intestine.  In the duodeunm the environment changes from acidic to alkaline with the addition of bile and excretions from the pancrease. Most of the absorption occurs in the jejunum due to its large size. When passing into the Ileum water and minerals are primarily absorbed, less digestive and AA absorption is observed in the ileum. 
+
 ["Most protein digestion occurs in the initial of small intestine, in the duodenum and jejunum, by proteolytic enzymes from pancreatic secretion."](/citations/soleymani-goloujehSystematicReviewProteins2016/)
 
 this is also confirmed by Scanes in Sturkies

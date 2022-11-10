@@ -26,3 +26,4 @@ Low activity of Glutaminase since glutimate is used for Uric Acid Production
 ["The primary ammonia-detoxifying enzyme in the avian liver is glutamine synthase."](/citations/scanesProteinMetabolism2021)
 
 ["Glutamine is a significant energy source for at least some tissues in birds. For instance, it is the major energy source for avian erythrocytes"](/citations/scanesProteinMetabolism2021)
+

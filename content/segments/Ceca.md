@@ -35,6 +35,8 @@ Megamonas, Helicobacter, and Campylobacter are curious taxa that may be acting a
 
 ### Some of the roles of the ceca
 
+Ceca are the transition point between the small and large intestine. Fermentation of carbohydrates is an important process in the ceca with one of the major byproducts being short chain fatty acids (SCFAs). Genes related to glycosyl hydrolase are commonly present. 
+
 [“Ceca in chickens are two blind sacs that mark the joint point between the small and the large intestine. In these segments, materials of ileal and renal origin are subjected to long retention times, enabling for most of the electrolytes and water absorption 36. Moreover, the ceca are an important site for the fermentation of any residual raw material with the consequent production of SCFA and B-group vitamins. Ceca empty their content two to three times per day, producing cecal droppings, whose color and texture are used to evaluate the normal functionality of the chickenś digestive tract 36, 37.”](/citations/tiloccaEffectsDietsDifferent2019#^18c971)
 
 [“Many researchers have speculated about the role of the avian ceca. There is evidence that the ceca play a role in the microbial degradation of some carbohydrates (Jorgensen et al., 1996; Jamroz et al., 2002), absorption of water (McNab, 1973), microbial synthesis of vitamins (Coates et al., 1968), cholesterol digestion and absorption (Tortuero et al., 1975)” (Józefiak et al., 2004, p. 2)](/citations/jozefiakCarbohydrateFermentationAvian2004/)
