@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7677dc5dc588c7a8",
+        "id": "b8ef8c9850c85ca0",
         "type": "tabs",
         "children": [
           {
-            "id": "83cdcc1283a76a82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "segments/Ceca.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3f95b5c837b9756",
+            "id": "3dc121527a50bf8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,15 +19,14 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "b064a0b9493dd38d",
+        "id": "719ac22a6135305a",
         "type": "tabs",
         "children": [
           {
-            "id": "5b49eee0768a0158",
+            "id": "f3f0ae0dd6a78fbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,17 +154,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5b49eee0768a0158",
+  "active": "f3f0ae0dd6a78fbf",
   "lastOpenFiles": [
     "segments/Ceca.md",
-    "citations/tiloccaEffectsDietsDifferent2019.md",
     "citations/zouSystematicProfilingChicken2022.md",
+    "bigqs/2022-11-07-open-questions-and-evidence-they-may-have-been-answered/index.md",
+    "about.md",
+    "_index.md",
+    "segments/Cloaca.md",
+    "citations/tiloccaEffectsDietsDifferent2019.md",
     "defs/Definitions.md",
     "citations/hooperHowHostmicrobialInteractions2002.md",
-    "citations/2022-11-07-bilsboroughreviewissuesdietary2006/index.md",
-    "segments/Small-Intestine(Duodneum,Illium,Jejunum).md",
-    "bigqs/roles-of-scfas.md",
-    "segments/Untitled.md",
-    "citations/qinHumanGutMicrobial2010.md"
+    "citations/2022-11-07-bilsboroughreviewissuesdietary2006/index.md"
   ]
 }

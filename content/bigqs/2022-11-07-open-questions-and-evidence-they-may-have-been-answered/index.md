@@ -52,6 +52,7 @@ We must understand where these SCFA go after they cross through the epithelial m
 
 [“The existence of a urea cycle in birds has been questioned (Stevens, 1996). However, birds have both uric acid and urates as well as urea in the plasma (see Chapter 11).”](/citations/scanesProteinMetabolism2021)
 
+["Despite possessing many of the enzymes associated with the urea cycle, this pathway is considered nonfunctional in chickens, potentially due to the lack of N-acetylglutamate synthase (NAGS), and may therefore provide some alternative function 52." ](zouSystematicProfilingChicken2022#^af2add)
 
 ### <a id="^567386"></a>Can birds also absorbe glucose and galactose in their small intestine? ^567386
 

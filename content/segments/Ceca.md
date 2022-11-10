@@ -55,8 +55,16 @@ Megamonas, Helicobacter, and Campylobacter are curious taxa that may be acting a
 
 ["Caecal bacterial taxa such as Faecalibacterium prausnitzii, Ruminococcus genus, Lachnospiraceae family and Bacteroides genus, are associated with good bird performance or low feed conversion ratio (FCR) (Stanley et al., 2012, 2013, 2014, 2016; Singh et al., 2012; Johnson et al., 2018)."](/citations/dehauomicstechnologiespoultry2022/#^f77bd9)
 
+["Conversely, in the metatranscriptomic profiles of the cecal samples, we see an increase in the relative abundance of reads mapping to Lachnospiraceae, Clostridiaceae, Lactobacillaceae, Enterobacteriaceae, Alphaproteobacteria, and "Other Proteobacteria," taxa that likely mediate highly active roles in the microbiome."](/citations/zouSystematicProfilingChicken2022#^1695b5)
+
 ### Are these the only taxa or can we identify even more?
 
 ["Ceca is the most colonized section and is featured by a very high bacterial diversity. Here, the most abundant bacterial specimens are Clostridiaceae, Bacteroidaceae, Lactobacillus spp., Proteobacteria, and unknown Firmicutes"](/citations/tiloccaEffectsDietsDifferent2019#^52c1e4)
 
 ["This gain was largely driven by a group of genera comprising positive correlations between Acinetobacter, Novosphingobium, Stenotrophomonas, Turicibacter, Clostridirum XIVb, Sphingomonas, and Anaerotruncus."](zouSystematicProfilingChicken2022#^db079d)
+
+### Metatranscriptomics Changes
+
+["For example, five pathways (phenylalanine, tyrosine and tryptophan biosynthesis, amino sugar and nucleotide sugar metabolism, galactose metabolism, starch and sucrose metabolism, and thiamine metabolism) exhibited significant changes in pathway expression across all comparisons with the exception of day 40 wheat-based samples"](zouSystematicProfilingChicken2022#^05f5c9)
+
+["For example, many changes in glycolytic enzyme expression in the cecal microbiome of 24-day old birds are associated with Lactobacillaceae with a corn-diet and Lachnospiraceae, Clostridiaceae, and Enterobacteriaceae with a wheat-based diet. These findings raise an important consideration: to what extent are these changes in enzyme expression driven simply by changes in taxon abundance. We therefore compared fold-change differences in taxon abundance and global taxon expression with pathway-specific expression for individual taxa"](/citations/zouSystematicProfilingChicken2022#^a75712)
