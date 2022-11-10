@@ -100,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "09ac204f6a2048a3",
@@ -169,15 +169,15 @@
   },
   "active": "5b49eee0768a0158",
   "lastOpenFiles": [
-    "citations/tiloccaEffectsDietsDifferent2019.md",
     "segments/Ceca.md",
+    "citations/tiloccaEffectsDietsDifferent2019.md",
+    "citations/zouSystematicProfilingChicken2022.md",
     "defs/Definitions.md",
     "citations/hooperHowHostmicrobialInteractions2002.md",
     "citations/2022-11-07-bilsboroughreviewissuesdietary2006/index.md",
     "segments/Small-Intestine(Duodneum,Illium,Jejunum).md",
     "bigqs/roles-of-scfas.md",
     "segments/Untitled.md",
-    "citations/qinHumanGutMicrobial2010.md",
-    "citations/zouSystematicProfilingChicken2022.md"
+    "citations/qinHumanGutMicrobial2010.md"
   ]
 }

@@ -120,7 +120,7 @@ Background The emergence of antimicrobial resistance is a major threat to global
 
 "In addition to revealing interactions between taxa representing their mutual presence or exclusion in each sample type, we also identified interactions that were significantly altered in response to AGP exposure (Fig. 2C)." ([Link](zotero://open-pdf/library/items/PFHF8N5H?page=8) )
 
-"This gain was largely driven by a group of genera comprising positive correlations between Acinetobacter, Novosphingobium, Stenotrophomonas, Turicibacter, Clostridirum XIVb, Sphingomonas, and Anaerotruncus." ([Link](zotero://open-pdf/library/items/PFHF8N5H?page=8) )
+<a id="^db079d"></a> "This gain was largely driven by a group of genera comprising positive correlations between Acinetobacter, Novosphingobium, Stenotrophomonas, Turicibacter, Clostridirum XIVb, Sphingomonas, and Anaerotruncus." ([Link](zotero://open-pdf/library/items/PFHF8N5H?page=8) ) ^db079d
 
 "Furthermore, two of these interactions (Sphingomonas and Novosphingobium and Turicibacter and Clostridirum XIVb) were common to both diets, suggesting they represent mutually supporting taxa, which together exert a significant influence on other taxa, such as the exclusion of Clostridium XVIII (associated with 3 of the 6 interactions that were significantly different between control and AGP samples under a corn diet)." ([Link](zotero://open-pdf/library/items/PFHF8N5H?page=8) )
 

@@ -58,3 +58,5 @@ Megamonas, Helicobacter, and Campylobacter are curious taxa that may be acting a
 ### Are these the only taxa or can we identify even more?
 
 ["Ceca is the most colonized section and is featured by a very high bacterial diversity. Here, the most abundant bacterial specimens are Clostridiaceae, Bacteroidaceae, Lactobacillus spp., Proteobacteria, and unknown Firmicutes"](/citations/tiloccaEffectsDietsDifferent2019#^52c1e4)
+
+["This gain was largely driven by a group of genera comprising positive correlations between Acinetobacter, Novosphingobium, Stenotrophomonas, Turicibacter, Clostridirum XIVb, Sphingomonas, and Anaerotruncus."](zouSystematicProfilingChicken2022#^db079d)
