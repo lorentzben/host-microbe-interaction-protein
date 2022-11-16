@@ -11,11 +11,28 @@
             "id": "1d968d2dfb82bcd7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "bigqs/what-is-a-core-microbiome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85c2b5394d7f2298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bigqs/how-can-multi-omics-projects-be-implemented.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3af180085af32b93",
@@ -99,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "bigqs/how-can-multi-omics-projects-be-implemented.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "bigqs/how-can-multi-omics-projects-be-implemented.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "bigqs/how-can-multi-omics-projects-be-implemented.md"
+              }
             }
           }
         ]
@@ -146,17 +167,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "58e2aae629b9cc4f",
+  "active": "85c2b5394d7f2298",
   "lastOpenFiles": [
-    "citations/adhikariEffectsHousingTypes2020.md",
     "bigqs/Taxa-of-Interest.md",
+    "bigqs/how-can-multi-omics-projects-be-implemented.md",
+    "bigqs/what-is-a-core-microbiome.md",
+    "citations/a.md",
+    "citations/adhikariEffectsHousingTypes2020.md",
     "bigqs/roles-of-scfas.md",
     "bigqs.md",
     "citations/fronkSymbioticOrgansNexus2022.md",
-    "citations/a.md",
     "bigqs/taxa-of-Interest.md",
-    "bigqs/2022-11-07-open-questions-and-evidence-they-may-have-been-answered/index.md",
-    "citations/2022-11-07-bilsboroughreviewissuesdietary2006/index.md",
-    "segments/Ceca.md"
+    "bigqs/2022-11-07-open-questions-and-evidence-they-may-have-been-answered/index.md"
   ]
 }
