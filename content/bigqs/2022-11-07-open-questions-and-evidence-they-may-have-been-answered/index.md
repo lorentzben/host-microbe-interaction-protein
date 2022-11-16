@@ -19,7 +19,7 @@ description: Description for the page
 
 ### Potential study methdology
 
-[“However, in order to postulate on possible advantages that cecal NSP fermentation may have for the host animal, a closer examination of the fermentation end-products (i.e. SCFA) that are produced in the ceca is warranted.” (Józefiak et al., 2004, p. 9)](/citations/jozefiakCarbohydrateFermentationAvian2004)
+[“However, in order to postulate on possible advantages that cecal NSP fermentation may have for the host animal, a closer examination of the fermentation end-products (i.e. SCFA) that are produced in the ceca is warranted.” (Józefiak et al., 2004, p. 9)](/citations/jozefiakCarbohydrateFermentationAvian2004)/
 
 
 <a id="^2d7b97"></a>### What is the end use of SCFA in the ceca 
@@ -68,7 +68,7 @@ We must understand where these SCFA go after they cross through the epithelial m
 
 ### Suggested probiotic strains, do these guys show up anywhere else?
 
-["In a search for probiotic strains related to chicken performance, Torok et al. (2011) identified sequences related to 
+["In a search for probiotic strains related to chicken performance, Torok et al. (2011) identified sequences related to
 Lactobacillus salivarius, 
 L. aviarius,
 L. crispatus, 
