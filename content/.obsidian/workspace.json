@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bigqs/how-can-multi-omics-projects-be-implemented.md",
+                "file": "citations/bergenIntestinalNitrogenRecycling2009.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bigqs/Taxa-of-Interest.md",
+                "file": "bigqs/2022-11-07-what-do-they-mean-when-they-say-protein/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc892115ccc32cef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bigqs/2022-11-07-open-questions-and-evidence-they-may-have-been-answered/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bigqs/how-can-multi-omics-projects-be-implemented.md",
+                "file": "citations/bergenIntestinalNitrogenRecycling2009.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bigqs/how-can-multi-omics-projects-be-implemented.md",
+                "file": "citations/bergenIntestinalNitrogenRecycling2009.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bigqs/how-can-multi-omics-projects-be-implemented.md"
+                "file": "citations/bergenIntestinalNitrogenRecycling2009.md"
               }
             }
           }
@@ -169,15 +181,15 @@
   },
   "active": "85c2b5394d7f2298",
   "lastOpenFiles": [
+    "bigqs/2022-11-07-what-do-they-mean-when-they-say-protein/index.md",
+    "bigqs/2022-11-07-open-questions-and-evidence-they-may-have-been-answered/index.md",
+    "citations/bergenIntestinalNitrogenRecycling2009.md",
     "bigqs/Taxa-of-Interest.md",
     "bigqs/how-can-multi-omics-projects-be-implemented.md",
     "bigqs/what-is-a-core-microbiome.md",
     "citations/a.md",
     "citations/adhikariEffectsHousingTypes2020.md",
     "bigqs/roles-of-scfas.md",
-    "bigqs.md",
-    "citations/fronkSymbioticOrgansNexus2022.md",
-    "bigqs/taxa-of-Interest.md",
-    "bigqs/2022-11-07-open-questions-and-evidence-they-may-have-been-answered/index.md"
+    "bigqs.md"
   ]
 }
